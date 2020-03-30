@@ -1,0 +1,7 @@
+[=, new, JUnitRule, (, ), ;, }, @, Deprecated, public, MockitoJUnitRule, (, Object, targetTest, ), {, this, (, ), ;]
+[., jUnitRule, =, new, JUnitRule, (, ), ;, }, @, Deprecated, public, MockitoJUnitRule, (, Object, targetTest, ), {, this, (]
+[;, }, @, Deprecated, public, MockitoJUnitRule, (, Object, targetTest, ), {, this, (, ), ;, }, public, Statement, apply, (]
+[;, }, }]
+[., apply, (, base, ,, target, ), ;, }, }]
+[,, target, ), ;, }, }]
+[), ;, }, }]

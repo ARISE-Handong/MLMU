@@ -1,0 +1,5 @@
+[this, ., generator]
+[this]
+[generator]
+[generator, ., nextGaussian, (, )]
+[generator]

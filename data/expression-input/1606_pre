@@ -1,0 +1,5 @@
+[class, DummyRandomKey, extends, RandomKey, <, String, >, {, public, DummyRandomKey, (, List, <, Double, >, representation, ), {, super, (]
+[representation, ), {, super, (, representation, ), ;, }, public, DummyRandomKey, (, Double, [, ], representation, ), {, super, (]
+[), ;, }, @, Override, public, AbstractListChromosome, <, Double, >, newFixedLengthChromosome, (, List, <, Double, >, chromosomeRepresentation, ), {, return]
+[@, Override, public, AbstractListChromosome, <, Double, >, newFixedLengthChromosome, (, List, <, Double, >, chromosomeRepresentation, ), {, return, new, DummyRandomKey, (]
+[Double, >, chromosomeRepresentation, ), {, return, new, DummyRandomKey, (, chromosomeRepresentation, ), ;, }, public, double, fitness, (, ), {, return]

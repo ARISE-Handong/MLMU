@@ -1,0 +1,8 @@
+[;, hasJUnit, =, true, ;, }, catch, (, Throwable, t, ), {, hasJUnit, =, false, ;, }, }, public, boolean]
+[., forName, (, "junit.framework.ComparisonFailure", ), ;, hasJUnit, =, true, ;, }, catch, (, Throwable, t, ), {, hasJUnit, =, false]
+[), ;, hasJUnit, =, true, ;, }, catch, (, Throwable, t, ), {, hasJUnit, =, false, ;, }, }, public]
+[=, true, ;, }, catch, (, Throwable, t, ), {, hasJUnit, =, false, ;, }, }, public, boolean, hasJUnit, (]
+[;, }, catch, (, Throwable, t, ), {, hasJUnit, =, false, ;, }, }, public, boolean, hasJUnit, (, ), {]
+[=, false, ;, }, }, public, boolean, hasJUnit, (, ), {, return, hasJUnit, ;, }, }]
+[;, }, }, public, boolean, hasJUnit, (, ), {, return, hasJUnit, ;, }, }]
+[;, }, }]

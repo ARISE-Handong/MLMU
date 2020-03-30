@@ -1,0 +1,3 @@
+[., util, ., FastMath, ;, public, class, Ceil, implements, UnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[., util, ., FastMath, ;, public, class, Ceil, implements, UnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[;, public, class, Ceil, implements, UnivariateFunction, {, public, double, value, (, double, x, ), {, return, FastMath, ., ceil, (]

@@ -1,0 +1,6 @@
+[;, protected, DateConverter, (, ), {, super, (, ), ;, }, public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono]
+[;, return, date, ., getTime, (, ), ;, }, public, Class, <, ?, >, getSupportedType, (, ), {, return, Date]
+[;, return, date, ., getTime, (, ), ;, }, public, Class, <, ?, >, getSupportedType, (, ), {, return, Date]
+[;, }, public, Class, <, ?, >, getSupportedType, (, ), {, return, Date, ., class, ;, }, }]
+[., getTime, (, ), ;, }, public, Class, <, ?, >, getSupportedType, (, ), {, return, Date, ., class, ;]
+[;, }, }]

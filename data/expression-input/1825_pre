@@ -1,0 +1,3 @@
+[Constructors, {, public, static, Constructor, <, ?, >, noArgConstructorOf, (, Class, <, ?, >, classToMock, ), {, try, {, return]
+[Constructors, {, public, static, Constructor, <, ?, >, noArgConstructorOf, (, Class, <, ?, >, classToMock, ), {, try, {, return]
+[classToMock, ), {, try, {, return, classToMock, ., getDeclaredConstructor, (, ), ;, }, catch, (, NoSuchMethodException, e, ), {, return]

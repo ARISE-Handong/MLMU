@@ -1,0 +1,6 @@
+[;, public, NullArgumentException, (, ), {, this, (, LocalizedFormats, ., NULL_NOT_ALLOWED, ), ;, }, public, NullArgumentException, (, Localizable, pattern, ,]
+[;, public, NullArgumentException, (, ), {, this, (, LocalizedFormats, ., NULL_NOT_ALLOWED, ), ;, }, public, NullArgumentException, (, Localizable, pattern, ,]
+[), ;, }, public, NullArgumentException, (, Localizable, pattern, ,, Object, ..., arguments, ), {, super, (, pattern, ,, arguments, )]
+[., NULL_NOT_ALLOWED, ), ;, }, public, NullArgumentException, (, Localizable, pattern, ,, Object, ..., arguments, ), {, super, (, pattern, ,]
+[,, arguments, ), ;, }, }]
+[), ;, }, }]

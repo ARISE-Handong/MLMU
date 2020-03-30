@@ -1,0 +1,8 @@
+[public, class, PrivatelyShadowedChild, extends, Parent, {, private, final, String, s, =, "ss", ;, private, final, boolean, b, =, true, ;]
+[), public, class, PrivatelyShadowedChild, extends, Parent, {, private, final, String, s, =, "ss", ;, private, final, boolean, b, =, true]
+[,, "hiding", }, ), public, class, PrivatelyShadowedChild, extends, Parent, {, private, final, String, s, =, "ss", ;, private, final, boolean]
+[}, ), public, class, PrivatelyShadowedChild, extends, Parent, {, private, final, String, s, =, "ss", ;, private, final, boolean, b, =]
+[;, private, final, boolean, b, =, true, ;, private, final, int, i, =, 1, ;, private, final, double, d, =]
+[;, private, final, int, i, =, 1, ;, private, final, double, d, =, 1.0, ;, }]
+[;, private, final, double, d, =, 1.0, ;, }]
+[;, }]

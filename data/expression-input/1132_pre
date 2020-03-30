@@ -1,0 +1,3 @@
+[javascript, ., jscomp, ;, public, enum, CheckLevel, {, ERROR, ,, WARNING, ,, OFF, ;, boolean, isOn, (, ), {, return]
+[javascript, ., jscomp, ;, public, enum, CheckLevel, {, ERROR, ,, WARNING, ,, OFF, ;, boolean, isOn, (, ), {, return]
+[jscomp, ;, public, enum, CheckLevel, {, ERROR, ,, WARNING, ,, OFF, ;, boolean, isOn, (, ), {, return, this, !=]

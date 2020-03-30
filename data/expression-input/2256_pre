@@ -1,0 +1,7 @@
+[;, import, org, ., mockito, ., mock, ., MockCreationSettings, ;, public, class, InstantiatorProvider, {, private, final, static, Instantiator, INSTANCE, =]
+[final, static, Instantiator, INSTANCE, =, new, ObjenesisInstantiator, (, ), ;, public, Instantiator, getInstantiator, (, MockCreationSettings, settings, ), {, if, (]
+[final, static, Instantiator, INSTANCE, =, new, ObjenesisInstantiator, (, ), ;, public, Instantiator, getInstantiator, (, MockCreationSettings, settings, ), {, if, (]
+[), ;, public, Instantiator, getInstantiator, (, MockCreationSettings, settings, ), {, if, (, settings, ., isUsingConstructor, (, ), ), {, return]
+[Instantiator, getInstantiator, (, MockCreationSettings, settings, ), {, if, (, settings, ., isUsingConstructor, (, ), ), {, return, new, ConstructorInstantiator, (]
+[Instantiator, getInstantiator, (, MockCreationSettings, settings, ), {, if, (, settings, ., isUsingConstructor, (, ), ), {, return, new, ConstructorInstantiator, (]
+[isUsingConstructor, (, ), ), {, return, new, ConstructorInstantiator, (, settings, ., getOuterClassInstance, (, ), ), ;, }, else, {, return]

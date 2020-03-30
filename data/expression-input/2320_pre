@@ -1,0 +1,3 @@
+[MultivariateDifferentiableOptimizer, {, public, MultivariateDifferentiableMultiStartOptimizer, (, final, MultivariateDifferentiableOptimizer, optimizer, ,, final, int, starts, ,, final, RandomVectorGenerator, generator, ), {, super, (]
+[public, MultivariateDifferentiableMultiStartOptimizer, (, final, MultivariateDifferentiableOptimizer, optimizer, ,, final, int, starts, ,, final, RandomVectorGenerator, generator, ), {, super, (, optimizer, ,]
+[(, final, MultivariateDifferentiableOptimizer, optimizer, ,, final, int, starts, ,, final, RandomVectorGenerator, generator, ), {, super, (, optimizer, ,, starts, ,]

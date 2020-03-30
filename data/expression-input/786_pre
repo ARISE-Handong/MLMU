@@ -1,0 +1,8 @@
+[MockitoAnnotations, ;, public, class, JUnitRule, {, public, Statement, apply, (, final, Statement, base, ,, final, Object, target, ), {, return]
+[Object, target, ), {, return, new, Statement, (, ), {, @, Override, public, void, evaluate, (, ), throws, Throwable, {]
+[Object, target, ), {, return, new, Statement, (, ), {, @, Override, public, void, evaluate, (, ), throws, Throwable, {]
+[return, new, Statement, (, ), {, @, Override, public, void, evaluate, (, ), throws, Throwable, {, MockitoAnnotations, ., initMocks, (]
+[(, ), {, @, Override, public, void, evaluate, (, ), throws, Throwable, {, MockitoAnnotations, ., initMocks, (, target, ), ;]
+[(, ), {, @, Override, public, void, evaluate, (, ), throws, Throwable, {, MockitoAnnotations, ., initMocks, (, target, ), ;]
+[void, evaluate, (, ), throws, Throwable, {, MockitoAnnotations, ., initMocks, (, target, ), ;, base, ., evaluate, (, ), ;]
+[void, evaluate, (, ), throws, Throwable, {, MockitoAnnotations, ., initMocks, (, target, ), ;, base, ., evaluate, (, ), ;]

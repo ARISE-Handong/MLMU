@@ -1,0 +1,2 @@
+[public, interface, IMockitoConfiguration, {, @, Deprecated, ReturnValues, getReturnValues, (, ), ;, Answer, <, Object, >, getDefaultAnswer, (, ), ;, AnnotationEngine]
+[), public, interface, IMockitoConfiguration, {, @, Deprecated, ReturnValues, getReturnValues, (, ), ;, Answer, <, Object, >, getDefaultAnswer, (, ), ;]

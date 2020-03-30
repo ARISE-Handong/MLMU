@@ -1,0 +1,5 @@
+[{, public, StandardURLTagFragmentGenerator, (, ), {, super, (, ), ;, }, public, String, generateURLFragment, (, String, urlText, ), {, return]
+[{, public, StandardURLTagFragmentGenerator, (, ), {, super, (, ), ;, }, public, String, generateURLFragment, (, String, urlText, ), {, return]
+[{, public, StandardURLTagFragmentGenerator, (, ), {, super, (, ), ;, }, public, String, generateURLFragment, (, String, urlText, ), {, return]
+[StandardURLTagFragmentGenerator, (, ), {, super, (, ), ;, }, public, String, generateURLFragment, (, String, urlText, ), {, return, " href=\"", +]
+[), {, super, (, ), ;, }, public, String, generateURLFragment, (, String, urlText, ), {, return, " href=\"", +, urlText, +]

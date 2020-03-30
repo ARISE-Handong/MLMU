@@ -1,0 +1,8 @@
+[public, class, MockitoAnnotationsMockAnnotationProcessor, implements, FieldAnnotationProcessor, <, Mock, >, {, public, Object, process, (, Mock, annotation, ,, Field, field, ), {]
+[), public, class, MockitoAnnotationsMockAnnotationProcessor, implements, FieldAnnotationProcessor, <, Mock, >, {, public, Object, process, (, Mock, annotation, ,, Field, field, )]
+[;, }, }]
+[., mock, (, field, ., getType, (, ), ,, field, ., getName, (, ), ), ;, }, }]
+[,, field, ., getName, (, ), ), ;, }, }]
+[., getType, (, ), ,, field, ., getName, (, ), ), ;, }, }]
+[), ;, }, }]
+[., getName, (, ), ), ;, }, }]

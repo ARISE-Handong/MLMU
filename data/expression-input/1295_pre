@@ -1,0 +1,2 @@
+[MockitoException, ;, public, class, InstantiationException, extends, MockitoException, {, public, InstantiationException, (, String, message, ,, Throwable, cause, ), {, super, (]
+[public, class, InstantiationException, extends, MockitoException, {, public, InstantiationException, (, String, message, ,, Throwable, cause, ), {, super, (, message, ,]

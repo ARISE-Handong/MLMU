@@ -1,0 +1,8 @@
+[=, line, ;, this, ., column, =, column, ;, }, public, int, getLine, (, ), {, return, line, ;, }]
+[., line, =, line, ;, this, ., column, =, column, ;, }, public, int, getLine, (, ), {, return, line]
+[;, this, ., column, =, column, ;, }, public, int, getLine, (, ), {, return, line, ;, }, public, int]
+[=, column, ;, }, public, int, getLine, (, ), {, return, line, ;, }, public, int, getColumn, (, ), {]
+[., column, =, column, ;, }, public, int, getLine, (, ), {, return, line, ;, }, public, int, getColumn, (]
+[;, }, public, int, getLine, (, ), {, return, line, ;, }, public, int, getColumn, (, ), {, return, column]
+[;, }, public, int, getColumn, (, ), {, return, column, ;, }, }]
+[;, }, }]

@@ -1,0 +1,7 @@
+[google, ., javascript, ., rhino, ., jstype, ;, final, class, IndexedType, extends, ProxyObjectType, {, private, static, final, long, serialVersionUID, =]
+[1L, ;, final, JSType, indexType, ;, IndexedType, (, JSTypeRegistry, registry, ,, ObjectType, objectType, ,, JSType, indexType, ), {, super, (]
+[final, JSType, indexType, ;, IndexedType, (, JSTypeRegistry, registry, ,, ObjectType, objectType, ,, JSType, indexType, ), {, super, (, registry, ,]
+[;, IndexedType, (, JSTypeRegistry, registry, ,, ObjectType, objectType, ,, JSType, indexType, ), {, super, (, registry, ,, objectType, ), ;]
+[;, IndexedType, (, JSTypeRegistry, registry, ,, ObjectType, objectType, ,, JSType, indexType, ), {, super, (, registry, ,, objectType, ), ;]
+[registry, ,, ObjectType, objectType, ,, JSType, indexType, ), {, super, (, registry, ,, objectType, ), ;, this, ., indexType, =]
+[,, objectType, ), ;, this, ., indexType, =, indexType, ;, }, @, Override, public, JSType, getIndexType, (, ), {, return]

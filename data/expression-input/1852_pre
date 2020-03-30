@@ -1,0 +1,3 @@
+[OptimizationData, ;, public, class, ObjectiveFunctionGradient, implements, OptimizationData, {, private, final, MultivariateVectorFunction, gradient, ;, public, ObjectiveFunctionGradient, (, MultivariateVectorFunction, g, ), {]
+[public, class, ObjectiveFunctionGradient, implements, OptimizationData, {, private, final, MultivariateVectorFunction, gradient, ;, public, ObjectiveFunctionGradient, (, MultivariateVectorFunction, g, ), {, gradient, =]
+[;, public, ObjectiveFunctionGradient, (, MultivariateVectorFunction, g, ), {, gradient, =, g, ;, }, public, MultivariateVectorFunction, getObjectiveFunctionGradient, (, ), {, return]

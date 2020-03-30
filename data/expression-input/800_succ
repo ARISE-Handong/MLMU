@@ -1,0 +1,8 @@
+[;, InternalMockHandler, nullResultGuardian, =, new, NullResultGuardian, (, handler, ), ;, InternalMockHandler, notifier, =, new, InvocationNotifierHandler, (, nullResultGuardian, ,, settings, )]
+[), ;, InternalMockHandler, nullResultGuardian, =, new, NullResultGuardian, (, handler, ), ;, InternalMockHandler, notifier, =, new, InvocationNotifierHandler, (, nullResultGuardian, ,, settings]
+[;, InternalMockHandler, notifier, =, new, InvocationNotifierHandler, (, nullResultGuardian, ,, settings, ), ;, return, notifier, ;, }, }]
+[), ;, InternalMockHandler, notifier, =, new, InvocationNotifierHandler, (, nullResultGuardian, ,, settings, ), ;, return, notifier, ;, }, }]
+[;, return, notifier, ;, }, }]
+[,, settings, ), ;, return, notifier, ;, }, }]
+[), ;, return, notifier, ;, }, }]
+[;, }, }]

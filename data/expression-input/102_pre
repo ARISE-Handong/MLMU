@@ -1,0 +1,7 @@
+[extends, Comparable, <, T, >, >, extends, CompareTo, <, T, >, implements, Serializable, {, private, static, final, long, serialVersionUID, =]
+[Comparable, <, T, >, >, extends, CompareTo, <, T, >, implements, Serializable, {, private, static, final, long, serialVersionUID, =, -]
+[static, final, long, serialVersionUID, =, -, 133860804462310942L, ;, public, LessThan, (, Comparable, <, T, >, value, ), {, super, (]
+[T, >, value, ), {, super, (, value, ), ;, }, @, Override, protected, String, getName, (, ), {, return]
+[String, getName, (, ), {, return, "lt", ;, }, @, Override, protected, boolean, matchResult, (, int, result, ), {, return]
+[String, getName, (, ), {, return, "lt", ;, }, @, Override, protected, boolean, matchResult, (, int, result, ), {, return]
+[(, ), {, return, "lt", ;, }, @, Override, protected, boolean, matchResult, (, int, result, ), {, return, result, <]

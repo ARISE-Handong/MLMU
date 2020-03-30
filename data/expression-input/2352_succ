@@ -1,0 +1,2 @@
+[public, interface, ArgumentMatcherStorage, {, HandyReturnValues, reportMatcher, (, Matcher, matcher, ), ;, List, <, LocalizedMatcher, >, pullLocalizedMatchers, (, ), ;, HandyReturnValues]
+[), public, interface, ArgumentMatcherStorage, {, HandyReturnValues, reportMatcher, (, Matcher, matcher, ), ;, List, <, LocalizedMatcher, >, pullLocalizedMatchers, (, ), ;]

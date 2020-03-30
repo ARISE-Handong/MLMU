@@ -1,0 +1,7 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, NotANumberException, extends, MathIllegalNumberException, {, private, static, final, long, serialVersionUID, =]
+[class, NotANumberException, extends, MathIllegalNumberException, {, private, static, final, long, serialVersionUID, =, 20120906L, ;, public, NotANumberException, (, ), {, super, (]
+[class, NotANumberException, extends, MathIllegalNumberException, {, private, static, final, long, serialVersionUID, =, 20120906L, ;, public, NotANumberException, (, ), {, super, (]
+[{, private, static, final, long, serialVersionUID, =, 20120906L, ;, public, NotANumberException, (, ), {, super, (, LocalizedFormats, ., NAN_NOT_ALLOWED, ,]
+[{, private, static, final, long, serialVersionUID, =, 20120906L, ;, public, NotANumberException, (, ), {, super, (, LocalizedFormats, ., NAN_NOT_ALLOWED, ,]
+[long, serialVersionUID, =, 20120906L, ;, public, NotANumberException, (, ), {, super, (, LocalizedFormats, ., NAN_NOT_ALLOWED, ,, Double, ., valueOf, (]
+[long, serialVersionUID, =, 20120906L, ;, public, NotANumberException, (, ), {, super, (, LocalizedFormats, ., NAN_NOT_ALLOWED, ,, Double, ., valueOf, (]

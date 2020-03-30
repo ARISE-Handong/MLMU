@@ -1,0 +1,6 @@
+[FastMath, ., sin, (, x, )]
+[FastMath]
+[x]
+[new, Cos, (, )]
+[t, ., sin, (, )]
+[t]

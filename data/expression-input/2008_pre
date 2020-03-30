@@ -1,0 +1,5 @@
+[>, implements, FieldMatrixChangingVisitor, <, T, >, {, private, final, T, zero, ;, public, DefaultFieldMatrixChangingVisitor, (, final, T, zero, ), {]
+[>, implements, FieldMatrixChangingVisitor, <, T, >, {, private, final, T, zero, ;, public, DefaultFieldMatrixChangingVisitor, (, final, T, zero, ), {]
+[T, >, {, private, final, T, zero, ;, public, DefaultFieldMatrixChangingVisitor, (, final, T, zero, ), {, this, ., zero, =]
+[int, endColumn, ), {, }, public, T, visit, (, int, row, ,, int, column, ,, T, value, ), {, return]
+[row, ,, int, column, ,, T, value, ), {, return, value, ;, }, public, T, end, (, ), {, return]

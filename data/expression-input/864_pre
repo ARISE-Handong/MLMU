@@ -1,0 +1,4 @@
+[FastMath, ;, public, class, Pow, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[FastMath, ;, public, class, Pow, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[Pow, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return, FastMath, ., pow, (]
+[BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return, FastMath, ., pow, (, x, ,]

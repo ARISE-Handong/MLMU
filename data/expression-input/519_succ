@@ -1,0 +1,7 @@
+[;, public, NotANumberException, (, ), {, super, (, LocalizedFormats, ., NAN_NOT_ALLOWED, ,, Double, ., valueOf, (, Double, ., NaN, )]
+[,, Double, ., valueOf, (, Double, ., NaN, ), ), ;, }, }]
+[., NAN_NOT_ALLOWED, ,, Double, ., valueOf, (, Double, ., NaN, ), ), ;, }, }]
+[), ;, }, }]
+[., valueOf, (, Double, ., NaN, ), ), ;, }, }]
+[), ), ;, }, }]
+[., NaN, ), ), ;, }, }]

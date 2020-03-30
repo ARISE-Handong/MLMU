@@ -1,0 +1,8 @@
+[package, org, ., apache, ., commons, ., lang3, ., reflect, ., testbed, ;]
+[package, org, ., apache, ., commons, ., lang3, ., reflect, ., testbed, ;, @, SuppressWarnings, (]
+[package, org, ., apache, ., commons, ., lang3, ., reflect, ., testbed, ;, @, SuppressWarnings, (, {]
+[package, org, ., apache, ., commons, ., lang3, ., reflect, ., testbed, ;, @, SuppressWarnings, (, {, "unused", ,]
+[@, SuppressWarnings, (, {, "unused", ,, "hiding", }, ), public, class, PrivatelyShadowedChild, extends, Parent, {, private, final, String, s, =]
+[}, ), public, class, PrivatelyShadowedChild, extends, Parent, {, private, final, String, s, =, "ss", ;, private, final, boolean, b, =]
+[{, private, final, String, s, =, "ss", ;, private, final, boolean, b, =, true, ;, private, final, int, i, =]
+[;, private, final, boolean, b, =, true, ;, private, final, int, i, =, 1, ;, private, final, double, d, =]

@@ -1,0 +1,6 @@
+[;, public, TooManyIterationsException, (, Number, max, ), {, super, (, max, ), ;, getContext, (, ), ., addMessage, (, LocalizedFormats]
+[), ;, getContext, (, ), ., addMessage, (, LocalizedFormats, ., ITERATIONS, ), ;, }, }]
+[;, }, }]
+[., addMessage, (, LocalizedFormats, ., ITERATIONS, ), ;, }, }]
+[), ;, }, }]
+[., ITERATIONS, ), ;, }, }]

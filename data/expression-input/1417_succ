@@ -1,0 +1,7 @@
+[;, private, final, String, source, ;, public, DummyLocalizable, (, final, String, source, ), {, this, ., source, =, source, ;]
+[=, source, ;, }, public, String, getSourceString, (, ), {, return, source, ;, }, public, String, getLocalizedString, (, Locale, locale]
+[., source, =, source, ;, }, public, String, getSourceString, (, ), {, return, source, ;, }, public, String, getLocalizedString, (]
+[;, }, public, String, getSourceString, (, ), {, return, source, ;, }, public, String, getLocalizedString, (, Locale, locale, ), {]
+[;, }, public, String, getLocalizedString, (, Locale, locale, ), {, return, source, ;, }, @, Override, public, String, toString, (]
+[;, }, @, Override, public, String, toString, (, ), {, return, source, ;, }, }]
+[;, }, }]

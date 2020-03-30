@@ -1,0 +1,4 @@
+[math3, ., exception, ., NullArgumentException, ;, public, class, Median, extends, Percentile, implements, Serializable, {, private, static, final, long, serialVersionUID, =]
+[., exception, ., NullArgumentException, ;, public, class, Median, extends, Percentile, implements, Serializable, {, private, static, final, long, serialVersionUID, =, -]
+[Percentile, implements, Serializable, {, private, static, final, long, serialVersionUID, =, -, 3961477041290915687L, ;, public, Median, (, ), {, super, (]
+[(, ), {, super, (, 50.0, ), ;, }, public, Median, (, Median, original, ), throws, NullArgumentException, {, super, (]

@@ -1,0 +1,5 @@
+[;, public, class, GaussianRandomGenerator, implements, NormalizedRandomGenerator, {, private, final, RandomGenerator, generator, ;, public, GaussianRandomGenerator, (, final, RandomGenerator, generator, ), {]
+[;, public, class, GaussianRandomGenerator, implements, NormalizedRandomGenerator, {, private, final, RandomGenerator, generator, ;, public, GaussianRandomGenerator, (, final, RandomGenerator, generator, ), {]
+[implements, NormalizedRandomGenerator, {, private, final, RandomGenerator, generator, ;, public, GaussianRandomGenerator, (, final, RandomGenerator, generator, ), {, this, ., generator, =]
+[(, final, RandomGenerator, generator, ), {, this, ., generator, =, generator, ;, }, public, double, nextNormalizedDouble, (, ), {, return]
+[(, final, RandomGenerator, generator, ), {, this, ., generator, =, generator, ;, }, public, double, nextNormalizedDouble, (, ), {, return]

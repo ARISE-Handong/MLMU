@@ -1,0 +1,6 @@
+[String, ., format, (, "Error(%d): %s", ,, getErrorCode, (, ), ., getCode, (, ), ,, getFormattedError, (, ), )]
+[String]
+["Error(%d): %s"]
+[getErrorCode, (, ), ., getCode, (, )]
+[getErrorCode, (, )]
+[getFormattedError, (, )]

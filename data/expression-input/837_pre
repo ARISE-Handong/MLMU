@@ -1,0 +1,6 @@
+[Discrepancy, ;, public, class, AtLeastDiscrepancy, extends, Discrepancy, {, public, AtLeastDiscrepancy, (, int, wantedCount, ,, int, actualCount, ), {, super, (]
+[public, class, AtLeastDiscrepancy, extends, Discrepancy, {, public, AtLeastDiscrepancy, (, int, wantedCount, ,, int, actualCount, ), {, super, (, wantedCount, ,]
+[actualCount, ), {, super, (, wantedCount, ,, actualCount, ), ;, }, @, Override, public, String, getPluralizedWantedCount, (, ), {, return]
+[actualCount, ), {, super, (, wantedCount, ,, actualCount, ), ;, }, @, Override, public, String, getPluralizedWantedCount, (, ), {, return]
+[{, super, (, wantedCount, ,, actualCount, ), ;, }, @, Override, public, String, getPluralizedWantedCount, (, ), {, return, "*at least* ", +]
+[{, super, (, wantedCount, ,, actualCount, ), ;, }, @, Override, public, String, getPluralizedWantedCount, (, ), {, return, "*at least* ", +]

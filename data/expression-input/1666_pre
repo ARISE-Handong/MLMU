@@ -1,0 +1,3 @@
+[exception, ., util, ., LocalizedFormats, ;, @, Deprecated, public, class, UnboundedSolutionException, extends, MathIllegalStateException, {, private, static, final, long, serialVersionUID, =]
+[class, UnboundedSolutionException, extends, MathIllegalStateException, {, private, static, final, long, serialVersionUID, =, 940539497277290619L, ;, public, UnboundedSolutionException, (, ), {, super, (]
+[class, UnboundedSolutionException, extends, MathIllegalStateException, {, private, static, final, long, serialVersionUID, =, 940539497277290619L, ;, public, UnboundedSolutionException, (, ), {, super, (]

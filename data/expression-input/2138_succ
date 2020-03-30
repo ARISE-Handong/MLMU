@@ -1,0 +1,6 @@
+[;, public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ), {, return, 0, ;, }, public, long, getInstantMillis, (]
+[;, }, public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ,, DateTimeFormatter, parser, ), {, return, 0, ;, }]
+[;, }, public, Chronology, getChronology, (, Object, object, ,, DateTimeZone, zone, ), {, return, null, ;, }, public, Chronology, getChronology]
+[;, }, public, Chronology, getChronology, (, Object, object, ,, Chronology, chrono, ), {, return, null, ;, }, public, Class, getSupportedType]
+[;, }, public, Class, getSupportedType, (, ), {, return, Integer, ., class, ;, }, }]
+[;, }, }]

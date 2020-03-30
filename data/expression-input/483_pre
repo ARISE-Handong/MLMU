@@ -1,0 +1,5 @@
+[List, ;, public, class, DummyBinaryChromosome, extends, BinaryChromosome, {, public, DummyBinaryChromosome, (, List, <, Integer, >, representation, ), {, super, (]
+[representation, ), {, super, (, representation, ), ;, }, public, DummyBinaryChromosome, (, Integer, [, ], representation, ), {, super, (]
+[), ;, }, @, Override, public, AbstractListChromosome, <, Integer, >, newFixedLengthChromosome, (, List, <, Integer, >, chromosomeRepresentation, ), {, return]
+[@, Override, public, AbstractListChromosome, <, Integer, >, newFixedLengthChromosome, (, List, <, Integer, >, chromosomeRepresentation, ), {, return, new, DummyBinaryChromosome, (]
+[Integer, >, chromosomeRepresentation, ), {, return, new, DummyBinaryChromosome, (, chromosomeRepresentation, ), ;, }, public, double, fitness, (, ), {, return]

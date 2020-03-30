@@ -1,0 +1,6 @@
+[getErrorCode, (, ), ;, public, abstract, String, getFormattedError, (, ), ;, @, Override, public, String, toString, (, ), {, return]
+[getErrorCode, (, ), ;, public, abstract, String, getFormattedError, (, ), ;, @, Override, public, String, toString, (, ), {, return]
+[public, abstract, String, getFormattedError, (, ), ;, @, Override, public, String, toString, (, ), {, return, String, ., format, (]
+[String, getFormattedError, (, ), ;, @, Override, public, String, toString, (, ), {, return, String, ., format, (, "Error(%d): %s", ,]
+[String, getFormattedError, (, ), ;, @, Override, public, String, toString, (, ), {, return, String, ., format, (, "Error(%d): %s", ,]
+[String, toString, (, ), {, return, String, ., format, (, "Error(%d): %s", ,, getErrorCode, (, ), ., getCode, (, ), ,]

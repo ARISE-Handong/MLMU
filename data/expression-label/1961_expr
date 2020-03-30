@@ -1,0 +1,6 @@
+[new, StringBuilder, (, )]
+[loggedInfo, ., append, (, what, )]
+[loggedInfo]
+[what]
+[loggedInfo, ., toString, (, )]
+[loggedInfo]

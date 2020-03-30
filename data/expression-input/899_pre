@@ -1,0 +1,4 @@
+[., math3, ., exception, ., NonMonotonicSequenceException, ;, public, class, NevilleInterpolator, implements, UnivariateInterpolator, ,, Serializable, {, static, final, long, serialVersionUID, =]
+[interpolate, (, double, x, [, ], ,, double, y, [, ], ), throws, DimensionMismatchException, ,, NumberIsTooSmallException, ,, NonMonotonicSequenceException, {, return]
+[x, [, ], ,, double, y, [, ], ), throws, DimensionMismatchException, ,, NumberIsTooSmallException, ,, NonMonotonicSequenceException, {, return, new, PolynomialFunctionLagrangeForm, (]
+[], ,, double, y, [, ], ), throws, DimensionMismatchException, ,, NumberIsTooSmallException, ,, NonMonotonicSequenceException, {, return, new, PolynomialFunctionLagrangeForm, (, x, ,]

@@ -1,0 +1,2 @@
+[MockingProgressListener, ;, import, org, ., mockito, ., invocation, ., Invocation, ;, import, org, ., mockito, ., verification, ., VerificationMode, ;]
+[org, ., mockito, ., invocation, ., Invocation, ;, import, org, ., mockito, ., verification, ., VerificationMode, ;, @, SuppressWarnings, (]

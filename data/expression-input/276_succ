@@ -1,0 +1,8 @@
+[@, Target, (, {, ElementType, ., METHOD, }, ), public, @, interface, Retry, {, int, value, (, ), default, 2]
+[), @, Target, (, {, ElementType, ., METHOD, }, ), public, @, interface, Retry, {, int, value, (, ), default]
+[., RUNTIME, ), @, Target, (, {, ElementType, ., METHOD, }, ), public, @, interface, Retry, {, int, value, (]
+[public, @, interface, Retry, {, int, value, (, ), default, 2, ;, }]
+[), public, @, interface, Retry, {, int, value, (, ), default, 2, ;, }]
+[}, ), public, @, interface, Retry, {, int, value, (, ), default, 2, ;, }]
+[., METHOD, }, ), public, @, interface, Retry, {, int, value, (, ), default, 2, ;, }]
+[;, }]

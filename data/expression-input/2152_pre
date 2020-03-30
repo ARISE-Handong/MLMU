@@ -1,0 +1,8 @@
+[minus, ;, public, SplitSubHyperplane, (, final, SubHyperplane, <, U, >, plus, ,, final, SubHyperplane, <, U, >, minus, ), {]
+[minus, ;, public, SplitSubHyperplane, (, final, SubHyperplane, <, U, >, plus, ,, final, SubHyperplane, <, U, >, minus, ), {]
+[(, final, SubHyperplane, <, U, >, plus, ,, final, SubHyperplane, <, U, >, minus, ), {, this, ., plus, =]
+[SubHyperplane, <, U, >, plus, ,, final, SubHyperplane, <, U, >, minus, ), {, this, ., plus, =, plus, ;]
+[SubHyperplane, <, U, >, plus, ,, final, SubHyperplane, <, U, >, minus, ), {, this, ., plus, =, plus, ;]
+[plus, ,, final, SubHyperplane, <, U, >, minus, ), {, this, ., plus, =, plus, ;, this, ., minus, =]
+[=, plus, ;, this, ., minus, =, minus, ;, }, public, SubHyperplane, <, U, >, getPlus, (, ), {, return]
+[U, >, getPlus, (, ), {, return, plus, ;, }, public, SubHyperplane, <, U, >, getMinus, (, ), {, return]

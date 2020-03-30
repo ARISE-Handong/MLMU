@@ -1,0 +1,8 @@
+[;, public, CardanEulerSingularityException, (, boolean, isCardan, ), {, super, (, isCardan, ?, LocalizedFormats, ., CARDAN_ANGLES_SINGULARITY, :, LocalizedFormats, ., EULER_ANGLES_SINGULARITY, )]
+[;, public, CardanEulerSingularityException, (, boolean, isCardan, ), {, super, (, isCardan, ?, LocalizedFormats, ., CARDAN_ANGLES_SINGULARITY, :, LocalizedFormats, ., EULER_ANGLES_SINGULARITY, )]
+[), ;, }, }]
+[?, LocalizedFormats, ., CARDAN_ANGLES_SINGULARITY, :, LocalizedFormats, ., EULER_ANGLES_SINGULARITY, ), ;, }, }]
+[:, LocalizedFormats, ., EULER_ANGLES_SINGULARITY, ), ;, }, }]
+[., CARDAN_ANGLES_SINGULARITY, :, LocalizedFormats, ., EULER_ANGLES_SINGULARITY, ), ;, }, }]
+[), ;, }, }]
+[., EULER_ANGLES_SINGULARITY, ), ;, }, }]

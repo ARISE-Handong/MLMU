@@ -1,0 +1,3 @@
+[BivariateFunction, ;, public, class, Add, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[BivariateFunction, ;, public, class, Add, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[public, class, Add, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return, x, +]

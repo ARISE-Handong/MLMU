@@ -1,0 +1,5 @@
+[;, }, @, Override, public, StaticScope, <, T, >, getParentScope, (, ), {, return, null, ;, }, @, Override, public]
+[;, }, @, Override, public, abstract, StaticSlot, <, T, >, getSlot, (, String, name, ), ;, @, Override, public, StaticSlot]
+[;, }, @, Override, public, T, getTypeOfThis, (, ), {, return, null, ;, }, }]
+[), ;, }, @, Override, public, T, getTypeOfThis, (, ), {, return, null, ;, }, }]
+[;, }, }]

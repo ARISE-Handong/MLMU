@@ -1,0 +1,6 @@
+[;, }, }]
+[., format, (, "Error(%d): %s", ,, getErrorCode, (, ), ., getCode, (, ), ,, getFormattedError, (, ), ), ;, }, }]
+[,, getErrorCode, (, ), ., getCode, (, ), ,, getFormattedError, (, ), ), ;, }, }]
+[,, getFormattedError, (, ), ), ;, }, }]
+[., getCode, (, ), ,, getFormattedError, (, ), ), ;, }, }]
+[), ;, }, }]

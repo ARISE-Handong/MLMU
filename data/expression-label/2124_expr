@@ -1,0 +1,7 @@
+[" onMouseOver=\"return overlib('", +, ImageMapUtilities, ., javascriptEscape, (, toolTipText, ), +, "');\" onMouseOut=\"return nd();\""]
+[" onMouseOver=\"return overlib('", +, ImageMapUtilities, ., javascriptEscape, (, toolTipText, )]
+[" onMouseOver=\"return overlib('"]
+[ImageMapUtilities, ., javascriptEscape, (, toolTipText, )]
+[ImageMapUtilities]
+[toolTipText]
+["');\" onMouseOut=\"return nd();\""]

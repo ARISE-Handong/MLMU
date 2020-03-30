@@ -1,0 +1,8 @@
+[;, private, final, List, <, T, >, points, ;, public, Cluster, (, ), {, points, =, new, ArrayList, <, T]
+[;, private, final, List, <, T, >, points, ;, public, Cluster, (, ), {, points, =, new, ArrayList, <, T]
+[=, new, ArrayList, <, T, >, (, ), ;, }, public, void, addPoint, (, final, T, point, ), {, points]
+[;, }, public, void, addPoint, (, final, T, point, ), {, points, ., add, (, point, ), ;, }, public]
+[;, }, public, List, <, T, >, getPoints, (, ), {, return, points, ;, }, }]
+[., add, (, point, ), ;, }, public, List, <, T, >, getPoints, (, ), {, return, points, ;, }]
+[), ;, }, public, List, <, T, >, getPoints, (, ), {, return, points, ;, }, }]
+[;, }, }]

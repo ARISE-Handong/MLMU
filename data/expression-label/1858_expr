@@ -1,0 +1,6 @@
+[new, ObjenesisStd, (, new, GlobalConfiguration, (, ), ., enableClassCache, (, ), )]
+[new, GlobalConfiguration, (, ), ., enableClassCache, (, )]
+[new, GlobalConfiguration, (, )]
+[objenesis, ., newInstance, (, cls, )]
+[objenesis]
+[cls]

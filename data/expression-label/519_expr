@@ -1,0 +1,7 @@
+[20120906L]
+[LocalizedFormats, ., NAN_NOT_ALLOWED]
+[LocalizedFormats]
+[Double, ., valueOf, (, Double, ., NaN, )]
+[Double]
+[Double, ., NaN]
+[Double]

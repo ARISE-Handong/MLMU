@@ -1,0 +1,7 @@
+[;, public, ConvergenceException, (, ), {, this, (, LocalizedFormats, ., CONVERGENCE_FAILED, ), ;, }, public, ConvergenceException, (, Localizable, pattern, ,]
+[), ;, }, public, ConvergenceException, (, Localizable, pattern, ,, Object, ..., args, ), {, getContext, (, ), ., addMessage, (]
+[., CONVERGENCE_FAILED, ), ;, }, public, ConvergenceException, (, Localizable, pattern, ,, Object, ..., args, ), {, getContext, (, ), .]
+[;, }, }]
+[., addMessage, (, pattern, ,, args, ), ;, }, }]
+[,, args, ), ;, }, }]
+[), ;, }, }]

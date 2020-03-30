@@ -1,0 +1,4 @@
+[., mockito, ., internal, ., util, ;, public, class, RemoveFirstLine, {, public, String, of, (, String, text, ), {, return]
+[., mockito, ., internal, ., util, ;, public, class, RemoveFirstLine, {, public, String, of, (, String, text, ), {, return]
+[., util, ;, public, class, RemoveFirstLine, {, public, String, of, (, String, text, ), {, return, text, ., replaceFirst, (]
+[;, public, class, RemoveFirstLine, {, public, String, of, (, String, text, ), {, return, text, ., replaceFirst, (, ".*?\n", ,]

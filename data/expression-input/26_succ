@@ -1,0 +1,2 @@
+[public, interface, MockingStartedListener, extends, MockingProgressListener, {, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), ;, }]
+[), public, interface, MockingStartedListener, extends, MockingProgressListener, {, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), ;, }]

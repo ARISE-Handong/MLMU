@@ -1,0 +1,3 @@
+[@, Retention, (, RetentionPolicy, ., RUNTIME, )]
+[RetentionPolicy, ., RUNTIME]
+[RetentionPolicy]

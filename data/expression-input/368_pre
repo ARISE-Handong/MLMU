@@ -1,0 +1,6 @@
+[mockito, ., internal, ., util, ., RemoveFirstLine, ;, public, class, WantedButNotInvoked, extends, MockitoAssertionError, {, private, static, final, long, serialVersionUID, =]
+[extends, MockitoAssertionError, {, private, static, final, long, serialVersionUID, =, 1L, ;, public, WantedButNotInvoked, (, String, message, ), {, super, (]
+[(, String, message, ), {, super, (, message, ), ;, }, @, Override, public, String, toString, (, ), {, return]
+[(, String, message, ), {, super, (, message, ), ;, }, @, Override, public, String, toString, (, ), {, return]
+[message, ), ;, }, @, Override, public, String, toString, (, ), {, return, new, RemoveFirstLine, (, ), ., of, (]
+[message, ), ;, }, @, Override, public, String, toString, (, ), {, return, new, RemoveFirstLine, (, ), ., of, (]

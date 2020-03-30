@@ -1,0 +1,6 @@
+[extends, Comparable, <, T, >, >, extends, CompareTo, <, T, >, implements, Serializable, {, private, static, final, long, serialVersionUID, =]
+[private, static, final, long, serialVersionUID, =, 2998586260452920429L, ;, public, CompareEqual, (, Comparable, <, T, >, value, ), {, super, (]
+[T, >, value, ), {, super, (, value, ), ;, }, @, Override, protected, String, getName, (, ), {, return]
+[String, getName, (, ), {, return, "cmpEq", ;, }, @, Override, protected, boolean, matchResult, (, int, result, ), {, return]
+[String, getName, (, ), {, return, "cmpEq", ;, }, @, Override, protected, boolean, matchResult, (, int, result, ), {, return]
+[(, ), {, return, "cmpEq", ;, }, @, Override, protected, boolean, matchResult, (, int, result, ), {, return, result, ==]

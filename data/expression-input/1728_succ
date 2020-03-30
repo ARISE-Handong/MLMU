@@ -1,0 +1,7 @@
+[;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return, new, Constant, (, -, 1, ), ;, }, public]
+[;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return, new, Constant, (, -, 1, ), ;, }, public]
+[;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return, t, ., negate, (, ), ;, }, }]
+[), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return, t, ., negate, (, ), ;, }]
+[), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return, t, ., negate, (, ), ;, }]
+[;, }, }]
+[., negate, (, ), ;, }, }]

@@ -1,0 +1,6 @@
+[FastMath, ., cosh, (, x, )]
+[FastMath]
+[x]
+[new, Sinh, (, )]
+[t, ., cosh, (, )]
+[t]

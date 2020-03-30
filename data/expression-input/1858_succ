@@ -1,0 +1,6 @@
+[;, public, <, T, >, T, newInstance, (, Class, <, T, >, cls, ), {, return, objenesis, ., newInstance, (]
+[), ;, public, <, T, >, T, newInstance, (, Class, <, T, >, cls, ), {, return, objenesis, ., newInstance]
+[., enableClassCache, (, ), ), ;, public, <, T, >, T, newInstance, (, Class, <, T, >, cls, ), {]
+[;, }, }]
+[., newInstance, (, cls, ), ;, }, }]
+[), ;, }, }]

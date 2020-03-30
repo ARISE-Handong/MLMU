@@ -1,0 +1,8 @@
+[>, Iterable, <, T, >, toIterable, (, Enumeration, <, T, >, in, ), {, List, <, T, >, out, =]
+[>, in, ), {, List, <, T, >, out, =, new, LinkedList, <, T, >, (, ), ;, while, (]
+[>, in, ), {, List, <, T, >, out, =, new, LinkedList, <, T, >, (, ), ;, while, (]
+[>, out, =, new, LinkedList, <, T, >, (, ), ;, while, (, in, ., hasMoreElements, (, ), ), {]
+[>, out, =, new, LinkedList, <, T, >, (, ), ;, while, (, in, ., hasMoreElements, (, ), ), {]
+[LinkedList, <, T, >, (, ), ;, while, (, in, ., hasMoreElements, (, ), ), {, out, ., add, (]
+[LinkedList, <, T, >, (, ), ;, while, (, in, ., hasMoreElements, (, ), ), {, out, ., add, (]
+[in, ., hasMoreElements, (, ), ), {, out, ., add, (, in, ., nextElement, (, ), ), ;, }, return]

@@ -1,0 +1,8 @@
+[., List, ;, public, class, Cluster, <, T, extends, Clusterable, >, implements, Serializable, {, private, static, final, long, serialVersionUID, =]
+[List, ;, public, class, Cluster, <, T, extends, Clusterable, >, implements, Serializable, {, private, static, final, long, serialVersionUID, =, -]
+[final, long, serialVersionUID, =, -, 3442297081515880464L, ;, private, final, List, <, T, >, points, ;, public, Cluster, (, ), {]
+[serialVersionUID, =, -, 3442297081515880464L, ;, private, final, List, <, T, >, points, ;, public, Cluster, (, ), {, points, =]
+[points, =, new, ArrayList, <, T, >, (, ), ;, }, public, void, addPoint, (, final, T, point, ), {]
+[points, =, new, ArrayList, <, T, >, (, ), ;, }, public, void, addPoint, (, final, T, point, ), {]
+[<, T, >, (, ), ;, }, public, void, addPoint, (, final, T, point, ), {, points, ., add, (]
+[), {, points, ., add, (, point, ), ;, }, public, List, <, T, >, getPoints, (, ), {, return]

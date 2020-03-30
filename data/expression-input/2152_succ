@@ -1,0 +1,8 @@
+[=, plus, ;, this, ., minus, =, minus, ;, }, public, SubHyperplane, <, U, >, getPlus, (, ), {, return]
+[., plus, =, plus, ;, this, ., minus, =, minus, ;, }, public, SubHyperplane, <, U, >, getPlus, (, )]
+[;, this, ., minus, =, minus, ;, }, public, SubHyperplane, <, U, >, getPlus, (, ), {, return, plus, ;]
+[=, minus, ;, }, public, SubHyperplane, <, U, >, getPlus, (, ), {, return, plus, ;, }, public, SubHyperplane, <]
+[., minus, =, minus, ;, }, public, SubHyperplane, <, U, >, getPlus, (, ), {, return, plus, ;, }, public]
+[;, }, public, SubHyperplane, <, U, >, getPlus, (, ), {, return, plus, ;, }, public, SubHyperplane, <, U, >]
+[;, }, public, SubHyperplane, <, U, >, getMinus, (, ), {, return, minus, ;, }, }, }]
+[;, }, }, }]

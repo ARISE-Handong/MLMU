@@ -1,0 +1,3 @@
+[package, org, ., joda, ., time, ., base, ;, public, abstract, class, BaseLocal, extends, AbstractPartial, {]
+[package, org, ., joda, ., time, ., base, ;, public, abstract, class, BaseLocal, extends, AbstractPartial, {, @, SuppressWarnings, (]
+[base, ;, public, abstract, class, BaseLocal, extends, AbstractPartial, {, @, SuppressWarnings, (, "unused", ), private, static, final, long, serialVersionUID, =]

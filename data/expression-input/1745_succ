@@ -1,0 +1,7 @@
+[;, private, final, String, name, ;, public, UnknownParameterException, (, final, String, name, ), {, super, (, LocalizedFormats, ., UNKNOWN_PARAMETER, )]
+[), ;, this, ., name, =, name, ;, }, public, String, getName, (, ), {, return, name, ;, }, }]
+[., UNKNOWN_PARAMETER, ), ;, this, ., name, =, name, ;, }, public, String, getName, (, ), {, return, name, ;]
+[=, name, ;, }, public, String, getName, (, ), {, return, name, ;, }, }]
+[., name, =, name, ;, }, public, String, getName, (, ), {, return, name, ;, }, }]
+[;, }, public, String, getName, (, ), {, return, name, ;, }, }]
+[;, }, }]

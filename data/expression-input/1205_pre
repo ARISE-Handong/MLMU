@@ -1,0 +1,6 @@
+[java, ., io, ., Serializable, ;, public, class, StubInfoImpl, implements, StubInfo, ,, Serializable, {, private, static, final, long, serialVersionUID, =]
+[private, static, final, long, serialVersionUID, =, 2125827349332068867L, ;, private, final, DescribedInvocation, stubbedAt, ;, public, StubInfoImpl, (, DescribedInvocation, stubbedAt, ), {]
+[private, static, final, long, serialVersionUID, =, 2125827349332068867L, ;, private, final, DescribedInvocation, stubbedAt, ;, public, StubInfoImpl, (, DescribedInvocation, stubbedAt, ), {]
+[serialVersionUID, =, 2125827349332068867L, ;, private, final, DescribedInvocation, stubbedAt, ;, public, StubInfoImpl, (, DescribedInvocation, stubbedAt, ), {, this, ., stubbedAt, =]
+[StubInfoImpl, (, DescribedInvocation, stubbedAt, ), {, this, ., stubbedAt, =, stubbedAt, ;, }, public, Location, stubbedAt, (, ), {, return]
+[StubInfoImpl, (, DescribedInvocation, stubbedAt, ), {, this, ., stubbedAt, =, stubbedAt, ;, }, public, Location, stubbedAt, (, ), {, return]

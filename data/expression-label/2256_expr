@@ -1,0 +1,7 @@
+[new, ObjenesisInstantiator, (, )]
+[settings, ., isUsingConstructor, (, )]
+[settings]
+[new, ConstructorInstantiator, (, settings, ., getOuterClassInstance, (, ), )]
+[settings, ., getOuterClassInstance, (, )]
+[settings]
+[INSTANCE]

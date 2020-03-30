@@ -1,0 +1,6 @@
+[;, public, class, AxisChangeEvent, extends, ChartChangeEvent, {, private, Axis, axis, ;, public, AxisChangeEvent, (, Axis, axis, ), {, super, (]
+[AxisChangeEvent, extends, ChartChangeEvent, {, private, Axis, axis, ;, public, AxisChangeEvent, (, Axis, axis, ), {, super, (, axis, ), ;]
+[AxisChangeEvent, extends, ChartChangeEvent, {, private, Axis, axis, ;, public, AxisChangeEvent, (, Axis, axis, ), {, super, (, axis, ), ;]
+[private, Axis, axis, ;, public, AxisChangeEvent, (, Axis, axis, ), {, super, (, axis, ), ;, this, ., axis, =]
+[{, super, (, axis, ), ;, this, ., axis, =, axis, ;, }, public, Axis, getAxis, (, ), {, return]
+[{, super, (, axis, ), ;, this, ., axis, =, axis, ;, }, public, Axis, getAxis, (, ), {, return]

@@ -1,0 +1,6 @@
+[), ;, }, protected, AbstractUnivariateSolver, (, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ), {, super, (, relativeAccuracy, ,, absoluteAccuracy]
+[,, absoluteAccuracy, ), ;, }, protected, AbstractUnivariateSolver, (, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ,, final, double, functionValueAccuracy, )]
+[), ;, }, protected, AbstractUnivariateSolver, (, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ,, final, double, functionValueAccuracy, ), {, super]
+[,, absoluteAccuracy, ,, functionValueAccuracy, ), ;, }, }]
+[,, functionValueAccuracy, ), ;, }, }]
+[), ;, }, }]

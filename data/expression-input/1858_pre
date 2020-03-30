@@ -1,0 +1,6 @@
+[., GlobalConfiguration, ;, import, org, ., objenesis, ., ObjenesisStd, ;, class, ObjenesisInstantiator, implements, Instantiator, {, private, final, ObjenesisStd, objenesis, =]
+[import, org, ., objenesis, ., ObjenesisStd, ;, class, ObjenesisInstantiator, implements, Instantiator, {, private, final, ObjenesisStd, objenesis, =, new, ObjenesisStd, (]
+[import, org, ., objenesis, ., ObjenesisStd, ;, class, ObjenesisInstantiator, implements, Instantiator, {, private, final, ObjenesisStd, objenesis, =, new, ObjenesisStd, (]
+[enableClassCache, (, ), ), ;, public, <, T, >, T, newInstance, (, Class, <, T, >, cls, ), {, return]
+[enableClassCache, (, ), ), ;, public, <, T, >, T, newInstance, (, Class, <, T, >, cls, ), {, return]
+[;, public, <, T, >, T, newInstance, (, Class, <, T, >, cls, ), {, return, objenesis, ., newInstance, (]

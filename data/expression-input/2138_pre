@@ -1,0 +1,6 @@
+[joda, ., time, ., format, ., DateTimeFormatter, ;, public, class, MockZeroNullIntegerConverter, implements, InstantConverter, {, public, static, final, InstantConverter, INSTANCE, =]
+[InstantConverter, INSTANCE, =, new, MockZeroNullIntegerConverter, (, ), ;, public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ), {, return]
+[{, return, 0, ;, }, public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ,, DateTimeFormatter, parser, ), {, return]
+[DateTimeFormatter, parser, ), {, return, 0, ;, }, public, Chronology, getChronology, (, Object, object, ,, DateTimeZone, zone, ), {, return]
+[DateTimeZone, zone, ), {, return, null, ;, }, public, Chronology, getChronology, (, Object, object, ,, Chronology, chrono, ), {, return]
+[getChronology, (, Object, object, ,, Chronology, chrono, ), {, return, null, ;, }, public, Class, getSupportedType, (, ), {, return]

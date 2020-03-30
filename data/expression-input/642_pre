@@ -1,0 +1,7 @@
+[public, class, MockitoJUnitRule, implements, MethodRule, ,, MockitoRule, {, private, final, JUnitRule, jUnitRule, ;, @, Deprecated, public, MockitoJUnitRule, (, ), {]
+[public, class, MockitoJUnitRule, implements, MethodRule, ,, MockitoRule, {, private, final, JUnitRule, jUnitRule, ;, @, Deprecated, public, MockitoJUnitRule, (, ), {]
+[MethodRule, ,, MockitoRule, {, private, final, JUnitRule, jUnitRule, ;, @, Deprecated, public, MockitoJUnitRule, (, ), {, this, ., jUnitRule, =]
+[this, (, ), ;, }, public, Statement, apply, (, Statement, base, ,, FrameworkMethod, method, ,, Object, target, ), {, return]
+[this, (, ), ;, }, public, Statement, apply, (, Statement, base, ,, FrameworkMethod, method, ,, Object, target, ), {, return]
+[}, public, Statement, apply, (, Statement, base, ,, FrameworkMethod, method, ,, Object, target, ), {, return, jUnitRule, ., apply, (]
+[Statement, apply, (, Statement, base, ,, FrameworkMethod, method, ,, Object, target, ), {, return, jUnitRule, ., apply, (, base, ,]

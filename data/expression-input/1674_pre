@@ -1,0 +1,4 @@
+[annotation, ., ElementType, ., FIELD, ;, import, static, java, ., lang, ., annotation, ., RetentionPolicy, ., RUNTIME, ;, @, Documented]
+[., FIELD, ;, import, static, java, ., lang, ., annotation, ., RetentionPolicy, ., RUNTIME, ;, @, Documented, @, Target, (]
+[;, import, static, java, ., lang, ., annotation, ., RetentionPolicy, ., RUNTIME, ;, @, Documented, @, Target, (, FIELD, )]
+[java, ., lang, ., annotation, ., RetentionPolicy, ., RUNTIME, ;, @, Documented, @, Target, (, FIELD, ), @, Retention, (]

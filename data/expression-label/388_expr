@@ -1,0 +1,4 @@
+[@, Retention, (, RUNTIME, )]
+[RUNTIME]
+[@, Target, (, FIELD, )]
+[FIELD]

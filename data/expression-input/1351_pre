@@ -1,0 +1,4 @@
+[FastMath, ;, public, class, Max, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[FastMath, ;, public, class, Max, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[Max, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return, FastMath, ., max, (]
+[BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return, FastMath, ., max, (, x, ,]

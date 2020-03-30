@@ -1,0 +1,6 @@
+[., differentiation, ., UnivariateDifferentiableFunction, ;, public, class, XMinus5Function, implements, UnivariateDifferentiableFunction, {, public, double, value, (, double, x, ), {, return]
+[., differentiation, ., UnivariateDifferentiableFunction, ;, public, class, XMinus5Function, implements, UnivariateDifferentiableFunction, {, public, double, value, (, double, x, ), {, return]
+[., UnivariateDifferentiableFunction, ;, public, class, XMinus5Function, implements, UnivariateDifferentiableFunction, {, public, double, value, (, double, x, ), {, return, x, -]
+[(, double, x, ), {, return, x, -, 5, ;, }, public, DerivativeStructure, value, (, DerivativeStructure, t, ), {, return]
+[(, double, x, ), {, return, x, -, 5, ;, }, public, DerivativeStructure, value, (, DerivativeStructure, t, ), {, return]
+[{, return, x, -, 5, ;, }, public, DerivativeStructure, value, (, DerivativeStructure, t, ), {, return, t, ., subtract, (]

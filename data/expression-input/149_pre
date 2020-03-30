@@ -1,0 +1,6 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, NonSquareOperatorException, extends, DimensionMismatchException, {, private, static, final, long, serialVersionUID, =]
+[., exception, ., util, ., LocalizedFormats, ;, public, class, NonSquareOperatorException, extends, DimensionMismatchException, {, private, static, final, long, serialVersionUID, =, -]
+[static, final, long, serialVersionUID, =, -, 4145007524150846242L, ;, public, NonSquareOperatorException, (, int, wrong, ,, int, expected, ), {, super, (]
+[static, final, long, serialVersionUID, =, -, 4145007524150846242L, ;, public, NonSquareOperatorException, (, int, wrong, ,, int, expected, ), {, super, (]
+[=, -, 4145007524150846242L, ;, public, NonSquareOperatorException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_OPERATOR, ,]
+[4145007524150846242L, ;, public, NonSquareOperatorException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_OPERATOR, ,, wrong, ,]

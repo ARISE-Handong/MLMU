@@ -1,0 +1,6 @@
+[;, }, public, DerivativeStructure, value, (, DerivativeStructure, t, ), {, return, t, ., subtract, (, 5, ), ;, }, }]
+[-, 5, ;, }, public, DerivativeStructure, value, (, DerivativeStructure, t, ), {, return, t, ., subtract, (, 5, ), ;]
+[;, }, public, DerivativeStructure, value, (, DerivativeStructure, t, ), {, return, t, ., subtract, (, 5, ), ;, }, }]
+[;, }, }]
+[., subtract, (, 5, ), ;, }, }]
+[), ;, }, }]

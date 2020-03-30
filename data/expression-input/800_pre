@@ -1,0 +1,8 @@
+[., mock, ., MockCreationSettings, ;, public, class, MockHandlerFactory, {, public, InternalMockHandler, create, (, MockCreationSettings, settings, ), {, InternalMockHandler, handler, =]
+[MockCreationSettings, ;, public, class, MockHandlerFactory, {, public, InternalMockHandler, create, (, MockCreationSettings, settings, ), {, InternalMockHandler, handler, =, new, MockHandlerImpl, (]
+[public, InternalMockHandler, create, (, MockCreationSettings, settings, ), {, InternalMockHandler, handler, =, new, MockHandlerImpl, (, settings, ), ;, InternalMockHandler, nullResultGuardian, =]
+[(, MockCreationSettings, settings, ), {, InternalMockHandler, handler, =, new, MockHandlerImpl, (, settings, ), ;, InternalMockHandler, nullResultGuardian, =, new, NullResultGuardian, (]
+[handler, =, new, MockHandlerImpl, (, settings, ), ;, InternalMockHandler, nullResultGuardian, =, new, NullResultGuardian, (, handler, ), ;, InternalMockHandler, notifier, =]
+[MockHandlerImpl, (, settings, ), ;, InternalMockHandler, nullResultGuardian, =, new, NullResultGuardian, (, handler, ), ;, InternalMockHandler, notifier, =, new, InvocationNotifierHandler, (]
+[settings, ), ;, InternalMockHandler, nullResultGuardian, =, new, NullResultGuardian, (, handler, ), ;, InternalMockHandler, notifier, =, new, InvocationNotifierHandler, (, nullResultGuardian, ,]
+[nullResultGuardian, =, new, NullResultGuardian, (, handler, ), ;, InternalMockHandler, notifier, =, new, InvocationNotifierHandler, (, nullResultGuardian, ,, settings, ), ;, return]

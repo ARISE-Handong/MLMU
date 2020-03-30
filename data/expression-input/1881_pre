@@ -1,0 +1,4 @@
+[FastMath, ;, public, class, Atan2, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[FastMath, ;, public, class, Atan2, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return]
+[Atan2, implements, BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return, FastMath, ., atan2, (]
+[BivariateFunction, {, public, double, value, (, double, x, ,, double, y, ), {, return, FastMath, ., atan2, (, x, ,]

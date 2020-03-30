@@ -1,0 +1,6 @@
+[;, public, WantedButNotInvoked, (, String, message, ), {, super, (, message, ), ;, }, @, Override, public, String, toString, (]
+[), ;, }, @, Override, public, String, toString, (, ), {, return, new, RemoveFirstLine, (, ), ., of, (, super]
+[;, }, }]
+[., of, (, super, ., toString, (, ), ), ;, }, }]
+[), ;, }, }]
+[., toString, (, ), ), ;, }, }]

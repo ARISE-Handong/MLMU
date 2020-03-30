@@ -1,0 +1,6 @@
+[;, import, java, ., util, ., EventObject, ;, public, class, IterationEvent, extends, EventObject, {, private, static, final, long, serialVersionUID, =]
+[;, private, final, int, iterations, ;, public, IterationEvent, (, final, Object, source, ,, final, int, iterations, ), {, super, (]
+[int, iterations, ;, public, IterationEvent, (, final, Object, source, ,, final, int, iterations, ), {, super, (, source, ), ;]
+[int, iterations, ;, public, IterationEvent, (, final, Object, source, ,, final, int, iterations, ), {, super, (, source, ), ;]
+[IterationEvent, (, final, Object, source, ,, final, int, iterations, ), {, super, (, source, ), ;, this, ., iterations, =]
+[{, super, (, source, ), ;, this, ., iterations, =, iterations, ;, }, public, int, getIterations, (, ), {, return]

@@ -1,0 +1,5 @@
+[., Answer, ;, public, class, GloballyConfiguredAnswer, implements, Answer, <, Object, >, ,, Serializable, {, private, static, final, long, serialVersionUID, =]
+[{, private, static, final, long, serialVersionUID, =, 3585893470101750917L, ;, public, Object, answer, (, InvocationOnMock, invocation, ), throws, Throwable, {, return]
+[{, private, static, final, long, serialVersionUID, =, 3585893470101750917L, ;, public, Object, answer, (, InvocationOnMock, invocation, ), throws, Throwable, {, return]
+[{, private, static, final, long, serialVersionUID, =, 3585893470101750917L, ;, public, Object, answer, (, InvocationOnMock, invocation, ), throws, Throwable, {, return]
+[answer, (, InvocationOnMock, invocation, ), throws, Throwable, {, return, new, GlobalConfiguration, (, ), ., getDefaultAnswer, (, ), ., answer, (]

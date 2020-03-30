@@ -1,0 +1,2 @@
+[public, interface, Stubber, {, <, T, >, T, when, (, T, mock, ), ;, Stubber, doThrow, (, Throwable, toBeThrown, )]
+[), public, interface, Stubber, {, <, T, >, T, when, (, T, mock, ), ;, Stubber, doThrow, (, Throwable, toBeThrown]

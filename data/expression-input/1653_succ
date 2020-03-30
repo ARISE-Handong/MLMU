@@ -1,0 +1,7 @@
+[;, public, ZeroException, (, ), {, this, (, LocalizedFormats, ., ZERO_NOT_ALLOWED, ), ;, }, public, ZeroException, (, Localizable, specific, ,]
+[;, public, ZeroException, (, ), {, this, (, LocalizedFormats, ., ZERO_NOT_ALLOWED, ), ;, }, public, ZeroException, (, Localizable, specific, ,]
+[), ;, }, public, ZeroException, (, Localizable, specific, ,, Object, ..., arguments, ), {, super, (, specific, ,, INTEGER_ZERO, ,]
+[., ZERO_NOT_ALLOWED, ), ;, }, public, ZeroException, (, Localizable, specific, ,, Object, ..., arguments, ), {, super, (, specific, ,]
+[,, INTEGER_ZERO, ,, arguments, ), ;, }, }]
+[,, arguments, ), ;, }, }]
+[), ;, }, }]

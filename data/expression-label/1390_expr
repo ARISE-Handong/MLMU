@@ -1,0 +1,7 @@
+[field, ., get, (, from, )]
+[field]
+[from]
+[field, ., set, (, to, ,, value, )]
+[field]
+[to]
+[value]

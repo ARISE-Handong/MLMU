@@ -1,0 +1,7 @@
+[T, >, {, private, final, T, object, ;, private, final, Location, location, ;, public, Localized, (, T, object, ), {]
+[T, >, {, private, final, T, object, ;, private, final, Location, location, ;, public, Localized, (, T, object, ), {]
+[final, T, object, ;, private, final, Location, location, ;, public, Localized, (, T, object, ), {, this, ., object, =]
+[object, ;, private, final, Location, location, ;, public, Localized, (, T, object, ), {, this, ., object, =, object, ;]
+[private, final, Location, location, ;, public, Localized, (, T, object, ), {, this, ., object, =, object, ;, location, =]
+[., object, =, object, ;, location, =, new, LocationImpl, (, ), ;, }, public, T, getObject, (, ), {, return]
+[), ;, }, public, T, getObject, (, ), {, return, object, ;, }, public, Location, getLocation, (, ), {, return]

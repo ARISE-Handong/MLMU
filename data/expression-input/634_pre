@@ -1,0 +1,8 @@
+[., ListResourceBundle, ;, public, class, DataPackageResources_es, extends, ListResourceBundle, {, public, Object, [, ], [, ], getContents, (, ), {, return]
+[[, ], getContents, (, ), {, return, CONTENTS, ;, }, private, static, final, Object, [, ], [, ], CONTENTS, =]
+[], getContents, (, ), {, return, CONTENTS, ;, }, private, static, final, Object, [, ], [, ], CONTENTS, =, {]
+[getContents, (, ), {, return, CONTENTS, ;, }, private, static, final, Object, [, ], [, ], CONTENTS, =, {, {]
+[), {, return, CONTENTS, ;, }, private, static, final, Object, [, ], [, ], CONTENTS, =, {, {, "series.default-prefix", ,]
+[CONTENTS, ;, }, private, static, final, Object, [, ], [, ], CONTENTS, =, {, {, "series.default-prefix", ,, "Series", }, ,]
+[;, }, private, static, final, Object, [, ], [, ], CONTENTS, =, {, {, "series.default-prefix", ,, "Series", }, ,, {]
+[private, static, final, Object, [, ], [, ], CONTENTS, =, {, {, "series.default-prefix", ,, "Series", }, ,, {, "categories.default-prefix", ,]

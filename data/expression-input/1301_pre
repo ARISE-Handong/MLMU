@@ -1,0 +1,6 @@
+[., FastMath, ;, public, class, Sinh, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[., FastMath, ;, public, class, Sinh, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[class, Sinh, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return, FastMath, ., sinh, (]
+[), {, return, FastMath, ., sinh, (, x, ), ;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return]
+[(, ), {, return, new, Cosh, (, ), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return]
+[(, ), {, return, new, Cosh, (, ), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return]

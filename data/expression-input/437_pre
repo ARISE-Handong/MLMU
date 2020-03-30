@@ -1,0 +1,8 @@
+[;, public, class, Warning, {, private, String, group, ;, private, CheckLevel, level, ;, public, String, getGroup, (, ), {, return]
+[level, ;, public, String, getGroup, (, ), {, return, group, ;, }, public, void, setGroup, (, String, group, ), {]
+[level, ;, public, String, getGroup, (, ), {, return, group, ;, }, public, void, setGroup, (, String, group, ), {]
+[getGroup, (, ), {, return, group, ;, }, public, void, setGroup, (, String, group, ), {, this, ., group, =]
+[setGroup, (, String, group, ), {, this, ., group, =, group, ;, }, public, CheckLevel, getLevel, (, ), {, return]
+[;, }, public, CheckLevel, getLevel, (, ), {, return, level, ;, }, public, void, setLevel, (, CheckLevel, level, ), {]
+[;, }, public, CheckLevel, getLevel, (, ), {, return, level, ;, }, public, void, setLevel, (, CheckLevel, level, ), {]
+[getLevel, (, ), {, return, level, ;, }, public, void, setLevel, (, CheckLevel, level, ), {, this, ., level, =]

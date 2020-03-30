@@ -1,0 +1,6 @@
+[;, protected, boolean, b, =, false, ;, int, i, =, 0, ;, @, SuppressWarnings, (, "unused", ), private, final, double]
+[;, int, i, =, 0, ;, @, SuppressWarnings, (, "unused", ), private, final, double, d, =, 0.0, ;, }]
+[;, @, SuppressWarnings, (, "unused", ), private, final, double, d, =, 0.0, ;, }]
+[private, final, double, d, =, 0.0, ;, }]
+[), private, final, double, d, =, 0.0, ;, }]
+[;, }]

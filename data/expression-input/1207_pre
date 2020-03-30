@@ -1,0 +1,7 @@
+[javascript, ., rhino, ., ErrorReporter, ;, abstract, class, ValueType, extends, JSType, {, ValueType, (, JSTypeRegistry, registry, ), {, super, (]
+[), ;, }, @, Override, final, JSType, resolveInternal, (, ErrorReporter, t, ,, StaticScope, <, JSType, >, scope, ), {, return]
+[StaticScope, <, JSType, >, scope, ), {, return, this, ;, }, @, Override, public, boolean, hasDisplayName, (, ), {, return]
+[}, @, Override, <, T, >, T, visit, (, RelationshipVisitor, <, T, >, visitor, ,, JSType, that, ), {, return]
+[}, @, Override, <, T, >, T, visit, (, RelationshipVisitor, <, T, >, visitor, ,, JSType, that, ), {, return]
+[T, >, T, visit, (, RelationshipVisitor, <, T, >, visitor, ,, JSType, that, ), {, return, visitor, ., caseValueType, (]
+[T, visit, (, RelationshipVisitor, <, T, >, visitor, ,, JSType, that, ), {, return, visitor, ., caseValueType, (, this, ,]

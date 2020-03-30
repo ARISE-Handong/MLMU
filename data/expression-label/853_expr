@@ -1,0 +1,7 @@
+[this, ., selectionState]
+[this]
+[this, ., selectionState]
+[this]
+[state]
+[fireDatasetChanged, (, new, DatasetChangeInfo, (, ), )]
+[new, DatasetChangeInfo, (, )]

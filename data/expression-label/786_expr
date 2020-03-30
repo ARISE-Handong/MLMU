@@ -1,0 +1,8 @@
+[new, Statement, (, ), {, @, Override, public, void, evaluate, (, ), throws, Throwable, {, MockitoAnnotations, ., initMocks, (, target, ), ;, base, ., evaluate, (, ), ;, Mockito, ., validateMockitoUsage, (, ), ;, }, }]
+[MockitoAnnotations, ., initMocks, (, target, )]
+[MockitoAnnotations]
+[target]
+[base, ., evaluate, (, )]
+[base]
+[Mockito, ., validateMockitoUsage, (, )]
+[Mockito]

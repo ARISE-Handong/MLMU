@@ -1,0 +1,7 @@
+[;, private, Decimal64Field, (, ), {, }, public, static, final, Decimal64Field, getInstance, (, ), {, return, INSTANCE, ;, }, public]
+[;, }, public, Decimal64, getZero, (, ), {, return, Decimal64, ., ZERO, ;, }, public, Decimal64, getOne, (, ), {]
+[;, }, public, Decimal64, getOne, (, ), {, return, Decimal64, ., ONE, ;, }, public, Class, <, ?, extends, FieldElement]
+[., ZERO, ;, }, public, Decimal64, getOne, (, ), {, return, Decimal64, ., ONE, ;, }, public, Class, <, ?]
+[;, }, public, Class, <, ?, extends, FieldElement, <, Decimal64, >, >, getRuntimeClass, (, ), {, return, Decimal64, ., class]
+[., ONE, ;, }, public, Class, <, ?, extends, FieldElement, <, Decimal64, >, >, getRuntimeClass, (, ), {, return, Decimal64]
+[;, }, }]

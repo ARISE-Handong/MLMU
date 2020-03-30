@@ -1,0 +1,7 @@
+[;, final, JSType, indexType, ;, IndexedType, (, JSTypeRegistry, registry, ,, ObjectType, objectType, ,, JSType, indexType, ), {, super, (, registry]
+[,, objectType, ), ;, this, ., indexType, =, indexType, ;, }, @, Override, public, JSType, getIndexType, (, ), {, return]
+[), ;, this, ., indexType, =, indexType, ;, }, @, Override, public, JSType, getIndexType, (, ), {, return, indexType, ;]
+[=, indexType, ;, }, @, Override, public, JSType, getIndexType, (, ), {, return, indexType, ;, }, }]
+[., indexType, =, indexType, ;, }, @, Override, public, JSType, getIndexType, (, ), {, return, indexType, ;, }, }]
+[;, }, @, Override, public, JSType, getIndexType, (, ), {, return, indexType, ;, }, }]
+[;, }, }]

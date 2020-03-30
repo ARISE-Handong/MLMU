@@ -1,0 +1,5 @@
+[;, public, IterativeLinearSolverEvent, (, final, Object, source, ,, final, int, iterations, ), {, super, (, source, ,, iterations, ), ;]
+[,, iterations, ), ;, }, public, abstract, RealVector, getRightHandSideVector, (, ), ;, public, abstract, double, getNormOfResidual, (, ), ;, public]
+[), ;, }, public, abstract, RealVector, getRightHandSideVector, (, ), ;, public, abstract, double, getNormOfResidual, (, ), ;, public, RealVector, getResidual]
+[;, }, public, abstract, RealVector, getSolution, (, ), ;, public, boolean, providesResidual, (, ), {, return, false, ;, }, }]
+[;, }, }]

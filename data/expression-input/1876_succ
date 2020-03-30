@@ -1,0 +1,6 @@
+[;, public, GreaterThan, (, Comparable, <, T, >, value, ), {, super, (, value, ), ;, }, @, Override, protected]
+[), ;, }, @, Override, protected, String, getName, (, ), {, return, "gt", ;, }, @, Override, protected, boolean, matchResult]
+[;, }, @, Override, protected, boolean, matchResult, (, int, result, ), {, return, result, >, 0, ;, }, }]
+[;, }, }]
+[>, 0, ;, }, }]
+[;, }, }]

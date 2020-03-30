@@ -1,0 +1,4 @@
+[., JsMessage, ., IdGenerator, ;, public, class, EmptyMessageBundle, implements, MessageBundle, {, @, Override, public, IdGenerator, idGenerator, (, ), {, return]
+[IdGenerator, idGenerator, (, ), {, return, null, ;, }, @, Override, public, JsMessage, getMessage, (, String, id, ), {, return]
+[String, id, ), {, return, null, ;, }, @, Override, public, Iterable, <, JsMessage, >, getAllMessages, (, ), {, return]
+[String, id, ), {, return, null, ;, }, @, Override, public, Iterable, <, JsMessage, >, getAllMessages, (, ), {, return]

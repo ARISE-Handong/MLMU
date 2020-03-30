@@ -1,0 +1,6 @@
+[;, public, class, TitleChangeEvent, extends, ChartChangeEvent, {, private, Title, title, ;, public, TitleChangeEvent, (, Title, title, ), {, super, (]
+[TitleChangeEvent, extends, ChartChangeEvent, {, private, Title, title, ;, public, TitleChangeEvent, (, Title, title, ), {, super, (, title, ), ;]
+[TitleChangeEvent, extends, ChartChangeEvent, {, private, Title, title, ;, public, TitleChangeEvent, (, Title, title, ), {, super, (, title, ), ;]
+[private, Title, title, ;, public, TitleChangeEvent, (, Title, title, ), {, super, (, title, ), ;, this, ., title, =]
+[{, super, (, title, ), ;, this, ., title, =, title, ;, }, public, Title, getTitle, (, ), {, return]
+[{, super, (, title, ), ;, this, ., title, =, title, ;, }, public, Title, getTitle, (, ), {, return]

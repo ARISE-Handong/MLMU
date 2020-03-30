@@ -1,0 +1,8 @@
+[public, class, CollectCreatedMocks, implements, MockingStartedListener, {, private, final, List, toBeFilled, ;, public, CollectCreatedMocks, (, List, toBeFilled, ), {, this, .]
+[), public, class, CollectCreatedMocks, implements, MockingStartedListener, {, private, final, List, toBeFilled, ;, public, CollectCreatedMocks, (, List, toBeFilled, ), {, this]
+[=, toBeFilled, ;, }, public, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), {, toBeFilled, ., add, (, mock]
+[., toBeFilled, =, toBeFilled, ;, }, public, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), {, toBeFilled, ., add]
+[;, }, public, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), {, toBeFilled, ., add, (, mock, ), ;]
+[;, }, }]
+[., add, (, mock, ), ;, }, }]
+[), ;, }, }]

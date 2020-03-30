@@ -1,0 +1,8 @@
+[;, @, Override, public, void, reportChange, (, ), {, hasChanged, =, true, ;, }, boolean, hasCodeChanged, (, ), {, return]
+[=, true, ;, }, boolean, hasCodeChanged, (, ), {, return, hasChanged, ;, }, void, reset, (, ), {, hasChanged, =]
+[;, }, boolean, hasCodeChanged, (, ), {, return, hasChanged, ;, }, void, reset, (, ), {, hasChanged, =, false, ;]
+[;, }, void, reset, (, ), {, hasChanged, =, false, ;, }, }, static, final, class, ForbiddenChange, implements, CodeChangeHandler, {]
+[=, false, ;, }, }, static, final, class, ForbiddenChange, implements, CodeChangeHandler, {, @, Override, public, void, reportChange, (, ), {]
+[;, }, }, static, final, class, ForbiddenChange, implements, CodeChangeHandler, {, @, Override, public, void, reportChange, (, ), {, throw, new]
+[;, }, }, }]
+[), ;, }, }, }]

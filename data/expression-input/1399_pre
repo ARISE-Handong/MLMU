@@ -1,0 +1,3 @@
+[package, org, ., apache, ., commons, ., lang3, ., reflect, ., testbed, ;, public, class, PublicChild, extends, Parent, {]
+[., apache, ., commons, ., lang3, ., reflect, ., testbed, ;, public, class, PublicChild, extends, Parent, {, @, SuppressWarnings, (]
+[reflect, ., testbed, ;, public, class, PublicChild, extends, Parent, {, @, SuppressWarnings, (, "hiding", ), static, final, String, VALUE, =]

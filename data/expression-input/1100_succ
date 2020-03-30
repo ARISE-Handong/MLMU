@@ -1,0 +1,7 @@
+[=, object, ;, location, =, new, LocationImpl, (, ), ;, }, public, T, getObject, (, ), {, return, object, ;]
+[., object, =, object, ;, location, =, new, LocationImpl, (, ), ;, }, public, T, getObject, (, ), {, return]
+[;, location, =, new, LocationImpl, (, ), ;, }, public, T, getObject, (, ), {, return, object, ;, }, public]
+[=, new, LocationImpl, (, ), ;, }, public, T, getObject, (, ), {, return, object, ;, }, public, Location, getLocation]
+[;, }, public, T, getObject, (, ), {, return, object, ;, }, public, Location, getLocation, (, ), {, return, location]
+[;, }, public, Location, getLocation, (, ), {, return, location, ;, }, }]
+[;, }, }]

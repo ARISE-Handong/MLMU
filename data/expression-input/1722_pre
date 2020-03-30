@@ -1,0 +1,8 @@
+[private, final, int, line, ;, private, final, int, column, ;, public, FilePosition, (, int, line, ,, int, column, ), {]
+[private, final, int, line, ;, private, final, int, column, ;, public, FilePosition, (, int, line, ,, int, column, ), {]
+[;, private, final, int, column, ;, public, FilePosition, (, int, line, ,, int, column, ), {, this, ., line, =]
+[final, int, column, ;, public, FilePosition, (, int, line, ,, int, column, ), {, this, ., line, =, line, ;]
+[final, int, column, ;, public, FilePosition, (, int, line, ,, int, column, ), {, this, ., line, =, line, ;]
+[public, FilePosition, (, int, line, ,, int, column, ), {, this, ., line, =, line, ;, this, ., column, =]
+[this, ., line, =, line, ;, this, ., column, =, column, ;, }, public, int, getLine, (, ), {, return]
+[column, ;, }, public, int, getLine, (, ), {, return, line, ;, }, public, int, getColumn, (, ), {, return]

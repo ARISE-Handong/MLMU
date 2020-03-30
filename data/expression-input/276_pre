@@ -1,0 +1,8 @@
+[package, org, ., apache, ., commons, ., math3, ;, import, java, ., lang, ., annotation, ., *, ;]
+[org, ., apache, ., commons, ., math3, ;, import, java, ., lang, ., annotation, ., *, ;, @, Retention, (]
+[org, ., apache, ., commons, ., math3, ;, import, java, ., lang, ., annotation, ., *, ;, @, Retention, (]
+[commons, ., math3, ;, import, java, ., lang, ., annotation, ., *, ;, @, Retention, (, RetentionPolicy, ., RUNTIME, )]
+[;, import, java, ., lang, ., annotation, ., *, ;, @, Retention, (, RetentionPolicy, ., RUNTIME, ), @, Target, (]
+[import, java, ., lang, ., annotation, ., *, ;, @, Retention, (, RetentionPolicy, ., RUNTIME, ), @, Target, (, {]
+[import, java, ., lang, ., annotation, ., *, ;, @, Retention, (, RetentionPolicy, ., RUNTIME, ), @, Target, (, {]
+[), @, Target, (, {, ElementType, ., METHOD, }, ), public, @, interface, Retry, {, int, value, (, ), default]

@@ -1,0 +1,4 @@
+[@, Retention, (, RUNTIME, ), public, @, interface, InjectMocks, {, }]
+[), @, Retention, (, RUNTIME, ), public, @, interface, InjectMocks, {, }]
+[public, @, interface, InjectMocks, {, }]
+[), public, @, interface, InjectMocks, {, }]

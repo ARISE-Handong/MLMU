@@ -1,0 +1,5 @@
+[), ;, }, public, DummyRandomKey, (, Double, [, ], representation, ), {, super, (, representation, ), ;, }, @, Override]
+[), ;, }, @, Override, public, AbstractListChromosome, <, Double, >, newFixedLengthChromosome, (, List, <, Double, >, chromosomeRepresentation, ), {, return]
+[;, }, public, double, fitness, (, ), {, return, 0, ;, }, }]
+[), ;, }, public, double, fitness, (, ), {, return, 0, ;, }, }]
+[;, }, }]

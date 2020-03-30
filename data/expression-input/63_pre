@@ -1,0 +1,5 @@
+[MockMaker, ;, import, org, ., mockito, ., plugins, ., StackTraceCleanerProvider, ;, public, class, Plugins, {, private, static, PluginRegistry, registry, =]
+[Plugins, {, private, static, PluginRegistry, registry, =, new, PluginRegistry, (, ), ;, public, static, StackTraceCleanerProvider, getStackTraceCleanerProvider, (, ), {, return]
+[Plugins, {, private, static, PluginRegistry, registry, =, new, PluginRegistry, (, ), ;, public, static, StackTraceCleanerProvider, getStackTraceCleanerProvider, (, ), {, return]
+[getStackTraceCleanerProvider, (, ), {, return, registry, ., getStackTraceCleanerProvider, (, ), ;, }, public, static, MockMaker, getMockMaker, (, ), {, return]
+[getStackTraceCleanerProvider, (, ), {, return, registry, ., getStackTraceCleanerProvider, (, ), ;, }, public, static, MockMaker, getMockMaker, (, ), {, return]

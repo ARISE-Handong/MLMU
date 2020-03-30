@@ -1,0 +1,8 @@
+[plusInside, ;, public, BoundaryAttribute, (, final, SubHyperplane, <, S, >, plusOutside, ,, final, SubHyperplane, <, S, >, plusInside, ), {]
+[plusInside, ;, public, BoundaryAttribute, (, final, SubHyperplane, <, S, >, plusOutside, ,, final, SubHyperplane, <, S, >, plusInside, ), {]
+[(, final, SubHyperplane, <, S, >, plusOutside, ,, final, SubHyperplane, <, S, >, plusInside, ), {, this, ., plusOutside, =]
+[SubHyperplane, <, S, >, plusOutside, ,, final, SubHyperplane, <, S, >, plusInside, ), {, this, ., plusOutside, =, plusOutside, ;]
+[SubHyperplane, <, S, >, plusOutside, ,, final, SubHyperplane, <, S, >, plusInside, ), {, this, ., plusOutside, =, plusOutside, ;]
+[plusOutside, ,, final, SubHyperplane, <, S, >, plusInside, ), {, this, ., plusOutside, =, plusOutside, ;, this, ., plusInside, =]
+[=, plusOutside, ;, this, ., plusInside, =, plusInside, ;, }, public, SubHyperplane, <, S, >, getPlusOutside, (, ), {, return]
+[S, >, getPlusOutside, (, ), {, return, plusOutside, ;, }, public, SubHyperplane, <, S, >, getPlusInside, (, ), {, return]

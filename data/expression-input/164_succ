@@ -1,0 +1,8 @@
+[=, null, ;, }, public, EntityCollection, getEntityCollection, (, ), {, return, this, ., entities, ;, }, public, void, setEntityCollection, (]
+[., entities, =, null, ;, }, public, EntityCollection, getEntityCollection, (, ), {, return, this, ., entities, ;, }, public, void]
+[;, }, public, EntityCollection, getEntityCollection, (, ), {, return, this, ., entities, ;, }, public, void, setEntityCollection, (, EntityCollection, entities]
+[;, }, public, void, setEntityCollection, (, EntityCollection, entities, ), {, this, ., entities, =, entities, ;, }, }]
+[., entities, ;, }, public, void, setEntityCollection, (, EntityCollection, entities, ), {, this, ., entities, =, entities, ;, }, }]
+[=, entities, ;, }, }]
+[., entities, =, entities, ;, }, }]
+[;, }, }]

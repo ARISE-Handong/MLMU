@@ -1,0 +1,6 @@
+[;, public, void, log, (, Object, what, ), {, loggedInfo, ., append, (, what, ), ;, }, public, String, getLoggedInfo]
+[;, }, public, String, getLoggedInfo, (, ), {, return, loggedInfo, ., toString, (, ), ;, }, }]
+[., append, (, what, ), ;, }, public, String, getLoggedInfo, (, ), {, return, loggedInfo, ., toString, (, ), ;]
+[), ;, }, public, String, getLoggedInfo, (, ), {, return, loggedInfo, ., toString, (, ), ;, }, }]
+[;, }, }]
+[., toString, (, ), ;, }, }]

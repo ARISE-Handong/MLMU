@@ -1,0 +1,6 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, TooManyEvaluationsException, extends, MaxCountExceededException, {, private, static, final, long, serialVersionUID, =]
+[extends, MaxCountExceededException, {, private, static, final, long, serialVersionUID, =, 4330003017885151975L, ;, public, TooManyEvaluationsException, (, Number, max, ), {, super, (]
+[private, static, final, long, serialVersionUID, =, 4330003017885151975L, ;, public, TooManyEvaluationsException, (, Number, max, ), {, super, (, max, ), ;]
+[private, static, final, long, serialVersionUID, =, 4330003017885151975L, ;, public, TooManyEvaluationsException, (, Number, max, ), {, super, (, max, ), ;]
+[4330003017885151975L, ;, public, TooManyEvaluationsException, (, Number, max, ), {, super, (, max, ), ;, getContext, (, ), ., addMessage, (]
+[4330003017885151975L, ;, public, TooManyEvaluationsException, (, Number, max, ), {, super, (, max, ), ;, getContext, (, ), ., addMessage, (]

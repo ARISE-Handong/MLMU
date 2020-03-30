@@ -1,0 +1,4 @@
+[io, ., Serializable, ;, public, class, TickLabelEntity, extends, ChartEntity, implements, Cloneable, ,, Serializable, {, private, static, final, long, serialVersionUID, =]
+[long, serialVersionUID, =, 681583956588092095L, ;, public, TickLabelEntity, (, Shape, area, ,, String, toolTipText, ,, String, urlText, ), {, super, (]
+[=, 681583956588092095L, ;, public, TickLabelEntity, (, Shape, area, ,, String, toolTipText, ,, String, urlText, ), {, super, (, area, ,]
+[;, public, TickLabelEntity, (, Shape, area, ,, String, toolTipText, ,, String, urlText, ), {, super, (, area, ,, toolTipText, ,]

@@ -1,0 +1,2 @@
+[RealVector, x, ), throws, DimensionMismatchException, ;, public, RealVector, operateTranspose, (, final, RealVector, x, ), throws, DimensionMismatchException, ,, UnsupportedOperationException, {, throw]
+[), throws, DimensionMismatchException, ,, UnsupportedOperationException, {, throw, new, UnsupportedOperationException, (, ), ;, }, public, boolean, isTransposable, (, ), {, return]

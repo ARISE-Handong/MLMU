@@ -1,0 +1,5 @@
+[;, public, CloneFailedException, (, final, String, message, ), {, super, (, message, ), ;, }, public, CloneFailedException, (, final, Throwable]
+[), ;, }, public, CloneFailedException, (, final, Throwable, cause, ), {, super, (, cause, ), ;, }, public, CloneFailedException, (]
+[), ;, }, public, CloneFailedException, (, final, String, message, ,, final, Throwable, cause, ), {, super, (, message, ,, cause]
+[,, cause, ), ;, }, }]
+[), ;, }, }]

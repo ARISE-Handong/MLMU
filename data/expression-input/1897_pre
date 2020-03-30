@@ -1,0 +1,3 @@
+[OptimizationData, ;, public, class, NonNegativeConstraint, implements, OptimizationData, {, private, final, boolean, isRestricted, ;, public, NonNegativeConstraint, (, boolean, restricted, ), {]
+[public, class, NonNegativeConstraint, implements, OptimizationData, {, private, final, boolean, isRestricted, ;, public, NonNegativeConstraint, (, boolean, restricted, ), {, isRestricted, =]
+[;, public, NonNegativeConstraint, (, boolean, restricted, ), {, isRestricted, =, restricted, ;, }, public, boolean, isRestrictedToNonNegative, (, ), {, return]

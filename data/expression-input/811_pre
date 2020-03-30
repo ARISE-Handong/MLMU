@@ -1,0 +1,3 @@
+[@, Deprecated, public, class, ModelFunctionJacobian, implements, OptimizationData, {, private, final, MultivariateMatrixFunction, jacobian, ;, public, ModelFunctionJacobian, (, MultivariateMatrixFunction, j, ), {]
+[public, class, ModelFunctionJacobian, implements, OptimizationData, {, private, final, MultivariateMatrixFunction, jacobian, ;, public, ModelFunctionJacobian, (, MultivariateMatrixFunction, j, ), {, jacobian, =]
+[;, public, ModelFunctionJacobian, (, MultivariateMatrixFunction, j, ), {, jacobian, =, j, ;, }, public, MultivariateMatrixFunction, getModelFunctionJacobian, (, ), {, return]

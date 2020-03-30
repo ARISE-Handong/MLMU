@@ -1,0 +1,6 @@
+[AnnotationChangeEvent, extends, ChartChangeEvent, {, private, Annotation, annotation, ;, public, AnnotationChangeEvent, (, Object, source, ,, Annotation, annotation, ), {, super, (]
+[{, private, Annotation, annotation, ;, public, AnnotationChangeEvent, (, Object, source, ,, Annotation, annotation, ), {, super, (, source, ), ;]
+[{, private, Annotation, annotation, ;, public, AnnotationChangeEvent, (, Object, source, ,, Annotation, annotation, ), {, super, (, source, ), ;]
+[;, public, AnnotationChangeEvent, (, Object, source, ,, Annotation, annotation, ), {, super, (, source, ), ;, this, ., annotation, =]
+[{, super, (, source, ), ;, this, ., annotation, =, annotation, ;, }, public, Annotation, getAnnotation, (, ), {, return]
+[{, super, (, source, ), ;, this, ., annotation, =, annotation, ;, }, public, Annotation, getAnnotation, (, ), {, return]

@@ -1,0 +1,5 @@
+[commons, ., math3, ., util, ., MathArrays, ;, public, class, EuclideanDistance, implements, DistanceMeasure, {, private, static, final, long, serialVersionUID, =]
+[serialVersionUID, =, 1717556319784040040L, ;, public, double, compute, (, double, [, ], a, ,, double, [, ], b, ), {, return]
+[serialVersionUID, =, 1717556319784040040L, ;, public, double, compute, (, double, [, ], a, ,, double, [, ], b, ), {, return]
+[public, double, compute, (, double, [, ], a, ,, double, [, ], b, ), {, return, MathArrays, ., distance, (]
+[compute, (, double, [, ], a, ,, double, [, ], b, ), {, return, MathArrays, ., distance, (, a, ,]

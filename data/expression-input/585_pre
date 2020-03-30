@@ -1,0 +1,5 @@
+[InitialGuess, implements, OptimizationData, {, private, final, double, [, ], init, ;, public, InitialGuess, (, double, [, ], startPoint, ), {]
+[OptimizationData, {, private, final, double, [, ], init, ;, public, InitialGuess, (, double, [, ], startPoint, ), {, init, =]
+[OptimizationData, {, private, final, double, [, ], init, ;, public, InitialGuess, (, double, [, ], startPoint, ), {, init, =]
+[), {, init, =, startPoint, ., clone, (, ), ;, }, public, double, [, ], getInitialGuess, (, ), {, return]
+[), {, init, =, startPoint, ., clone, (, ), ;, }, public, double, [, ], getInitialGuess, (, ), {, return]

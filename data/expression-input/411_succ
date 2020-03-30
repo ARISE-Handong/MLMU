@@ -1,0 +1,4 @@
+[;, }, @, Override, public, JsMessage, getMessage, (, String, id, ), {, return, null, ;, }, @, Override, public, Iterable]
+[;, }, @, Override, public, Iterable, <, JsMessage, >, getAllMessages, (, ), {, return, ImmutableList, ., of, (, ), ;]
+[;, }, }]
+[., of, (, ), ;, }, }]

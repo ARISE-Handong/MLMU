@@ -1,0 +1,5 @@
+[;, public, static, StackTraceCleanerProvider, getStackTraceCleanerProvider, (, ), {, return, registry, ., getStackTraceCleanerProvider, (, ), ;, }, public, static, MockMaker, getMockMaker]
+[;, }, public, static, MockMaker, getMockMaker, (, ), {, return, registry, ., getMockMaker, (, ), ;, }, }]
+[., getStackTraceCleanerProvider, (, ), ;, }, public, static, MockMaker, getMockMaker, (, ), {, return, registry, ., getMockMaker, (, ), ;]
+[;, }, }]
+[., getMockMaker, (, ), ;, }, }]

@@ -1,0 +1,6 @@
+[1L]
+[message]
+[new, RemoveFirstLine, (, ), ., of, (, super, ., toString, (, ), )]
+[new, RemoveFirstLine, (, )]
+[super, ., toString, (, )]
+[super]

@@ -1,0 +1,2 @@
+[chart, ., plot, ., CategoryPlot, ;, public, class, DefaultCategoryItemRenderer, extends, LineAndShapeRenderer, implements, Serializable, {, private, static, final, long, serialVersionUID, =]
+[., plot, ., CategoryPlot, ;, public, class, DefaultCategoryItemRenderer, extends, LineAndShapeRenderer, implements, Serializable, {, private, static, final, long, serialVersionUID, =, -]

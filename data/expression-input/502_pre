@@ -1,0 +1,4 @@
+[mockito, ., internal, ., util, ;, public, class, ConsoleMockitoLogger, implements, MockitoLogger, {, public, void, log, (, Object, what, ), {]
+[mockito, ., internal, ., util, ;, public, class, ConsoleMockitoLogger, implements, MockitoLogger, {, public, void, log, (, Object, what, ), {]
+[mockito, ., internal, ., util, ;, public, class, ConsoleMockitoLogger, implements, MockitoLogger, {, public, void, log, (, Object, what, ), {]
+[public, class, ConsoleMockitoLogger, implements, MockitoLogger, {, public, void, log, (, Object, what, ), {, System, ., out, ., println, (]

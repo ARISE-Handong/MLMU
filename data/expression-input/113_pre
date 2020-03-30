@@ -1,0 +1,8 @@
+[package, org, ., mockito, ., internal, ., listeners, ;, import, java, ., util, ., List, ;]
+[package, org, ., mockito, ., internal, ., listeners, ;, import, java, ., util, ., List, ;, @, SuppressWarnings, (]
+["unchecked", ), public, class, CollectCreatedMocks, implements, MockingStartedListener, {, private, final, List, toBeFilled, ;, public, CollectCreatedMocks, (, List, toBeFilled, ), {]
+["unchecked", ), public, class, CollectCreatedMocks, implements, MockingStartedListener, {, private, final, List, toBeFilled, ;, public, CollectCreatedMocks, (, List, toBeFilled, ), {]
+[CollectCreatedMocks, implements, MockingStartedListener, {, private, final, List, toBeFilled, ;, public, CollectCreatedMocks, (, List, toBeFilled, ), {, this, ., toBeFilled, =]
+[), {, this, ., toBeFilled, =, toBeFilled, ;, }, public, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), {]
+[), {, this, ., toBeFilled, =, toBeFilled, ;, }, public, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), {]
+[toBeFilled, =, toBeFilled, ;, }, public, void, mockingStarted, (, Object, mock, ,, Class, classToMock, ), {, toBeFilled, ., add, (]

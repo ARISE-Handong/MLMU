@@ -1,0 +1,6 @@
+[;, public, NonSquareMatrixException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_MATRIX, ,, wrong, ,, expected]
+[;, public, NonSquareMatrixException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_MATRIX, ,, wrong, ,, expected]
+[,, wrong, ,, expected, ), ;, }, }]
+[., NON_SQUARE_MATRIX, ,, wrong, ,, expected, ), ;, }, }]
+[,, expected, ), ;, }, }]
+[), ;, }, }]

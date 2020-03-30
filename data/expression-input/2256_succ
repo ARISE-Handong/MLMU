@@ -1,0 +1,7 @@
+[;, public, Instantiator, getInstantiator, (, MockCreationSettings, settings, ), {, if, (, settings, ., isUsingConstructor, (, ), ), {, return, new]
+[), {, return, new, ConstructorInstantiator, (, settings, ., getOuterClassInstance, (, ), ), ;, }, else, {, return, INSTANCE, ;, }]
+[., isUsingConstructor, (, ), ), {, return, new, ConstructorInstantiator, (, settings, ., getOuterClassInstance, (, ), ), ;, }, else, {]
+[;, }, else, {, return, INSTANCE, ;, }, }, }]
+[), ;, }, else, {, return, INSTANCE, ;, }, }, }]
+[., getOuterClassInstance, (, ), ), ;, }, else, {, return, INSTANCE, ;, }, }, }]
+[;, }, }, }]

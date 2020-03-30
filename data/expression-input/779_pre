@@ -1,0 +1,3 @@
+[math3, ., exception, ., util, ., Localizable, ;, public, class, InvalidRepresentationException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =]
+[static, final, long, serialVersionUID, =, 1L, ;, public, InvalidRepresentationException, (, Localizable, pattern, ,, Object, ..., args, ), {, super, (]
+[long, serialVersionUID, =, 1L, ;, public, InvalidRepresentationException, (, Localizable, pattern, ,, Object, ..., args, ), {, super, (, pattern, ,]

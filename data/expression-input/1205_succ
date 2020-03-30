@@ -1,0 +1,6 @@
+[;, private, final, DescribedInvocation, stubbedAt, ;, public, StubInfoImpl, (, DescribedInvocation, stubbedAt, ), {, this, ., stubbedAt, =, stubbedAt, ;, }]
+[=, stubbedAt, ;, }, public, Location, stubbedAt, (, ), {, return, stubbedAt, ., getLocation, (, ), ;, }, }]
+[., stubbedAt, =, stubbedAt, ;, }, public, Location, stubbedAt, (, ), {, return, stubbedAt, ., getLocation, (, ), ;, }]
+[;, }, public, Location, stubbedAt, (, ), {, return, stubbedAt, ., getLocation, (, ), ;, }, }]
+[;, }, }]
+[., getLocation, (, ), ;, }, }]

@@ -1,0 +1,6 @@
+[., FastMath, ;, public, class, Cosh, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[., FastMath, ;, public, class, Cosh, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[class, Cosh, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return, FastMath, ., cosh, (]
+[), {, return, FastMath, ., cosh, (, x, ), ;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return]
+[(, ), {, return, new, Sinh, (, ), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return]
+[(, ), {, return, new, Sinh, (, ), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return]

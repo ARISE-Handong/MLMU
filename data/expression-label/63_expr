@@ -1,0 +1,5 @@
+[new, PluginRegistry, (, )]
+[registry, ., getStackTraceCleanerProvider, (, )]
+[registry]
+[registry, ., getMockMaker, (, )]
+[registry]

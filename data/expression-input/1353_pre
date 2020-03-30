@@ -1,0 +1,4 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, SingularOperatorException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =]
+[., exception, ., util, ., LocalizedFormats, ;, public, class, SingularOperatorException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =, -]
+[SingularOperatorException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =, -, 476049978595245033L, ;, public, SingularOperatorException, (, ), {, super, (]
+[SingularOperatorException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =, -, 476049978595245033L, ;, public, SingularOperatorException, (, ), {, super, (]

@@ -1,0 +1,4 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, SingularMatrixException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =]
+[., exception, ., util, ., LocalizedFormats, ;, public, class, SingularMatrixException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =, -]
+[SingularMatrixException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =, -, 4206514844735401070L, ;, public, SingularMatrixException, (, ), {, super, (]
+[SingularMatrixException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =, -, 4206514844735401070L, ;, public, SingularMatrixException, (, ), {, super, (]

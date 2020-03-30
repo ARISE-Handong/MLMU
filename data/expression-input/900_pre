@@ -1,0 +1,8 @@
+[Mockito, ;, import, org, ., mockito, ., MockitoAnnotations, ., Mock, ;, import, java, ., lang, ., reflect, ., Field, ;]
+[org, ., mockito, ., MockitoAnnotations, ., Mock, ;, import, java, ., lang, ., reflect, ., Field, ;, @, SuppressWarnings, (]
+[class, MockitoAnnotationsMockAnnotationProcessor, implements, FieldAnnotationProcessor, <, Mock, >, {, public, Object, process, (, Mock, annotation, ,, Field, field, ), {, return]
+[class, MockitoAnnotationsMockAnnotationProcessor, implements, FieldAnnotationProcessor, <, Mock, >, {, public, Object, process, (, Mock, annotation, ,, Field, field, ), {, return]
+[<, Mock, >, {, public, Object, process, (, Mock, annotation, ,, Field, field, ), {, return, Mockito, ., mock, (]
+[<, Mock, >, {, public, Object, process, (, Mock, annotation, ,, Field, field, ), {, return, Mockito, ., mock, (]
+[process, (, Mock, annotation, ,, Field, field, ), {, return, Mockito, ., mock, (, field, ., getType, (, ), ,]
+[process, (, Mock, annotation, ,, Field, field, ), {, return, Mockito, ., mock, (, field, ., getType, (, ), ,]

@@ -1,0 +1,7 @@
+[CategoryDatasetSelectionState, selectionState, ;, public, AbstractCategoryDataset, (, ), {, super, (, ), ;, }, public, CategoryDatasetSelectionState, getSelectionState, (, ), {, return]
+[CategoryDatasetSelectionState, selectionState, ;, public, AbstractCategoryDataset, (, ), {, super, (, ), ;, }, public, CategoryDatasetSelectionState, getSelectionState, (, ), {, return]
+[public, CategoryDatasetSelectionState, getSelectionState, (, ), {, return, this, ., selectionState, ;, }, public, void, setSelectionState, (, CategoryDatasetSelectionState, state, ), {]
+[public, CategoryDatasetSelectionState, getSelectionState, (, ), {, return, this, ., selectionState, ;, }, public, void, setSelectionState, (, CategoryDatasetSelectionState, state, ), {]
+[), {, return, this, ., selectionState, ;, }, public, void, setSelectionState, (, CategoryDatasetSelectionState, state, ), {, this, ., selectionState, =]
+[return, this, ., selectionState, ;, }, public, void, setSelectionState, (, CategoryDatasetSelectionState, state, ), {, this, ., selectionState, =, state, ;]
+[., selectionState, ;, }, public, void, setSelectionState, (, CategoryDatasetSelectionState, state, ), {, this, ., selectionState, =, state, ;, fireDatasetChanged, (]

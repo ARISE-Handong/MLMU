@@ -1,0 +1,3 @@
+[OptimizationData, ;, public, class, ObjectiveFunction, implements, OptimizationData, {, private, final, MultivariateFunction, function, ;, public, ObjectiveFunction, (, MultivariateFunction, f, ), {]
+[public, class, ObjectiveFunction, implements, OptimizationData, {, private, final, MultivariateFunction, function, ;, public, ObjectiveFunction, (, MultivariateFunction, f, ), {, function, =]
+[;, public, ObjectiveFunction, (, MultivariateFunction, f, ), {, function, =, f, ;, }, public, MultivariateFunction, getObjectiveFunction, (, ), {, return]

@@ -1,0 +1,7 @@
+[registry]
+[this]
+[true]
+[visitor, ., caseValueType, (, this, ,, that, )]
+[visitor]
+[this]
+[that]

@@ -1,0 +1,5 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, IllConditionedOperatorException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =]
+[., exception, ., util, ., LocalizedFormats, ;, public, class, IllConditionedOperatorException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =, -]
+[{, private, static, final, long, serialVersionUID, =, -, 7883263944530490135L, ;, public, IllConditionedOperatorException, (, final, double, cond, ), {, super, (]
+[{, private, static, final, long, serialVersionUID, =, -, 7883263944530490135L, ;, public, IllConditionedOperatorException, (, final, double, cond, ), {, super, (]
+[long, serialVersionUID, =, -, 7883263944530490135L, ;, public, IllConditionedOperatorException, (, final, double, cond, ), {, super, (, LocalizedFormats, ., ILL_CONDITIONED_OPERATOR, ,]

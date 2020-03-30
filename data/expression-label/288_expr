@@ -1,0 +1,8 @@
+[new, LinkedList, <, T, >, (, )]
+[in, ., hasMoreElements, (, )]
+[in]
+[out, ., add, (, in, ., nextElement, (, ), )]
+[out]
+[in, ., nextElement, (, )]
+[in]
+[out]

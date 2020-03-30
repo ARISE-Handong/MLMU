@@ -1,0 +1,8 @@
+[;, interface, CodeChangeHandler, {, void, reportChange, (, ), ;, static, final, class, RecentChange, implements, CodeChangeHandler, {, private, boolean, hasChanged, =]
+[final, class, RecentChange, implements, CodeChangeHandler, {, private, boolean, hasChanged, =, false, ;, @, Override, public, void, reportChange, (, ), {]
+[RecentChange, implements, CodeChangeHandler, {, private, boolean, hasChanged, =, false, ;, @, Override, public, void, reportChange, (, ), {, hasChanged, =]
+[;, @, Override, public, void, reportChange, (, ), {, hasChanged, =, true, ;, }, boolean, hasCodeChanged, (, ), {, return]
+[{, hasChanged, =, true, ;, }, boolean, hasCodeChanged, (, ), {, return, hasChanged, ;, }, void, reset, (, ), {]
+[=, true, ;, }, boolean, hasCodeChanged, (, ), {, return, hasChanged, ;, }, void, reset, (, ), {, hasChanged, =]
+[false, ;, }, }, static, final, class, ForbiddenChange, implements, CodeChangeHandler, {, @, Override, public, void, reportChange, (, ), {, throw]
+[}, static, final, class, ForbiddenChange, implements, CodeChangeHandler, {, @, Override, public, void, reportChange, (, ), {, throw, new, IllegalStateException, (]

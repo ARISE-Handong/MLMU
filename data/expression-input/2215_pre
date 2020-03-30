@@ -1,0 +1,7 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, ConvergenceException, extends, MathIllegalStateException, {, private, static, final, long, serialVersionUID, =]
+[class, ConvergenceException, extends, MathIllegalStateException, {, private, static, final, long, serialVersionUID, =, 4330003017885151975L, ;, public, ConvergenceException, (, ), {, this, (]
+[class, ConvergenceException, extends, MathIllegalStateException, {, private, static, final, long, serialVersionUID, =, 4330003017885151975L, ;, public, ConvergenceException, (, ), {, this, (]
+[{, this, (, LocalizedFormats, ., CONVERGENCE_FAILED, ), ;, }, public, ConvergenceException, (, Localizable, pattern, ,, Object, ..., args, ), {]
+[{, this, (, LocalizedFormats, ., CONVERGENCE_FAILED, ), ;, }, public, ConvergenceException, (, Localizable, pattern, ,, Object, ..., args, ), {]
+[), ;, }, public, ConvergenceException, (, Localizable, pattern, ,, Object, ..., args, ), {, getContext, (, ), ., addMessage, (]
+[}, public, ConvergenceException, (, Localizable, pattern, ,, Object, ..., args, ), {, getContext, (, ), ., addMessage, (, pattern, ,]

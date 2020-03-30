@@ -1,0 +1,5 @@
+[public, class, DummyStepHandler, implements, StepHandler, {, private, DummyStepHandler, (, ), {, }, public, static, DummyStepHandler, getInstance, (, ), {, return]
+[public, class, DummyStepHandler, implements, StepHandler, {, private, DummyStepHandler, (, ), {, }, public, static, DummyStepHandler, getInstance, (, ), {, return]
+[StepInterpolator, interpolator, ,, final, boolean, isLast, ), {, }, private, static, class, LazyHolder, {, private, static, final, DummyStepHandler, INSTANCE, =]
+[{, private, static, final, DummyStepHandler, INSTANCE, =, new, DummyStepHandler, (, ), ;, }, private, Object, readResolve, (, ), {, return]
+[{, private, static, final, DummyStepHandler, INSTANCE, =, new, DummyStepHandler, (, ), ;, }, private, Object, readResolve, (, ), {, return]

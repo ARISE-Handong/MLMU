@@ -1,0 +1,6 @@
+[@, Retention, (, RetentionPolicy, ., RUNTIME, )]
+[RetentionPolicy, ., RUNTIME]
+[RetentionPolicy]
+[@, Target, (, ElementType, ., FIELD, )]
+[ElementType, ., FIELD]
+[ElementType]

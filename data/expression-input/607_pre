@@ -1,0 +1,6 @@
+[;, public, class, PlotChangeEvent, extends, ChartChangeEvent, {, private, Plot, plot, ;, public, PlotChangeEvent, (, Plot, plot, ), {, super, (]
+[PlotChangeEvent, extends, ChartChangeEvent, {, private, Plot, plot, ;, public, PlotChangeEvent, (, Plot, plot, ), {, super, (, plot, ), ;]
+[PlotChangeEvent, extends, ChartChangeEvent, {, private, Plot, plot, ;, public, PlotChangeEvent, (, Plot, plot, ), {, super, (, plot, ), ;]
+[private, Plot, plot, ;, public, PlotChangeEvent, (, Plot, plot, ), {, super, (, plot, ), ;, this, ., plot, =]
+[{, super, (, plot, ), ;, this, ., plot, =, plot, ;, }, public, Plot, getPlot, (, ), {, return]
+[{, super, (, plot, ), ;, this, ., plot, =, plot, ;, }, public, Plot, getPlot, (, ), {, return]

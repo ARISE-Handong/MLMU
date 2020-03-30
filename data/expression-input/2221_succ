@@ -1,0 +1,3 @@
+[private, static, final, long, serialVersionUID, =, 276453175381783L, ;, protected, BaseLocal, (, ), {, super, (, ), ;, }, protected, abstract]
+[), private, static, final, long, serialVersionUID, =, 276453175381783L, ;, protected, BaseLocal, (, ), {, super, (, ), ;, }, protected]
+[;, protected, BaseLocal, (, ), {, super, (, ), ;, }, protected, abstract, long, getLocalMillis, (, ), ;, }]

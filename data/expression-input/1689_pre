@@ -1,0 +1,1 @@
+[., panel, ., Overlay, ;, public, class, OverlayChangeEvent, extends, EventObject, {, public, OverlayChangeEvent, (, Object, source, ), {, super, (]

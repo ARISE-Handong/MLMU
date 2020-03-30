@@ -1,0 +1,7 @@
+[), ;, }, @, Override, final, JSType, resolveInternal, (, ErrorReporter, t, ,, StaticScope, <, JSType, >, scope, ), {, return]
+[;, }, @, Override, public, boolean, hasDisplayName, (, ), {, return, true, ;, }, @, Override, <, T, >, T]
+[;, }, @, Override, <, T, >, T, visit, (, RelationshipVisitor, <, T, >, visitor, ,, JSType, that, ), {]
+[;, }, }]
+[., caseValueType, (, this, ,, that, ), ;, }, }]
+[,, that, ), ;, }, }]
+[), ;, }, }]

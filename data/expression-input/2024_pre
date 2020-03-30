@@ -1,0 +1,2 @@
+[., google, ., javascript, ., jscomp, ., jsonml, ;, class, JsonMLException, extends, Exception, {, private, static, final, long, serialVersionUID, =]
+[static, final, long, serialVersionUID, =, 1L, ;, JsonMLException, (, ), {, }, JsonMLException, (, String, message, ), {, super, (]

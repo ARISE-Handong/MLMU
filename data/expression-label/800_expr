@@ -1,0 +1,8 @@
+[new, MockHandlerImpl, (, settings, )]
+[settings]
+[new, NullResultGuardian, (, handler, )]
+[handler]
+[new, InvocationNotifierHandler, (, nullResultGuardian, ,, settings, )]
+[nullResultGuardian]
+[settings]
+[notifier]

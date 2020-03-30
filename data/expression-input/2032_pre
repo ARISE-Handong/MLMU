@@ -1,0 +1,6 @@
+[;, public, class, MarkerChangeEvent, extends, ChartChangeEvent, {, private, Marker, marker, ;, public, MarkerChangeEvent, (, Marker, marker, ), {, super, (]
+[MarkerChangeEvent, extends, ChartChangeEvent, {, private, Marker, marker, ;, public, MarkerChangeEvent, (, Marker, marker, ), {, super, (, marker, ), ;]
+[MarkerChangeEvent, extends, ChartChangeEvent, {, private, Marker, marker, ;, public, MarkerChangeEvent, (, Marker, marker, ), {, super, (, marker, ), ;]
+[private, Marker, marker, ;, public, MarkerChangeEvent, (, Marker, marker, ), {, super, (, marker, ), ;, this, ., marker, =]
+[{, super, (, marker, ), ;, this, ., marker, =, marker, ;, }, public, Marker, getMarker, (, ), {, return]
+[{, super, (, marker, ), ;, this, ., marker, =, marker, ;, }, public, Marker, getMarker, (, ), {, return]

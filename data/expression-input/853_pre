@@ -1,0 +1,7 @@
+[PieDatasetSelectionState, selectionState, ;, public, AbstractPieDataset, (, ), {, super, (, ), ;, }, public, PieDatasetSelectionState, getSelectionState, (, ), {, return]
+[PieDatasetSelectionState, selectionState, ;, public, AbstractPieDataset, (, ), {, super, (, ), ;, }, public, PieDatasetSelectionState, getSelectionState, (, ), {, return]
+[public, PieDatasetSelectionState, getSelectionState, (, ), {, return, this, ., selectionState, ;, }, public, void, setSelectionState, (, PieDatasetSelectionState, state, ), {]
+[public, PieDatasetSelectionState, getSelectionState, (, ), {, return, this, ., selectionState, ;, }, public, void, setSelectionState, (, PieDatasetSelectionState, state, ), {]
+[), {, return, this, ., selectionState, ;, }, public, void, setSelectionState, (, PieDatasetSelectionState, state, ), {, this, ., selectionState, =]
+[return, this, ., selectionState, ;, }, public, void, setSelectionState, (, PieDatasetSelectionState, state, ), {, this, ., selectionState, =, state, ;]
+[., selectionState, ;, }, public, void, setSelectionState, (, PieDatasetSelectionState, state, ), {, this, ., selectionState, =, state, ;, fireDatasetChanged, (]

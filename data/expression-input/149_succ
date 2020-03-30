@@ -1,0 +1,6 @@
+[;, public, NonSquareOperatorException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_OPERATOR, ,, wrong, ,, expected]
+[;, public, NonSquareOperatorException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_OPERATOR, ,, wrong, ,, expected]
+[,, wrong, ,, expected, ), ;, }, }]
+[., NON_SQUARE_OPERATOR, ,, wrong, ,, expected, ), ;, }, }]
+[,, expected, ), ;, }, }]
+[), ;, }, }]

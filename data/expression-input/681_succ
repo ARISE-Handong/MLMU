@@ -1,0 +1,8 @@
+[=, 0, ;, }, public, int, getModifier, (, ), {, return, this, ., modifier, ;, }, public, void, setModifier, (]
+[., modifier, =, 0, ;, }, public, int, getModifier, (, ), {, return, this, ., modifier, ;, }, public, void]
+[;, }, public, int, getModifier, (, ), {, return, this, ., modifier, ;, }, public, void, setModifier, (, int, modifier]
+[;, }, public, void, setModifier, (, int, modifier, ), {, this, ., modifier, =, modifier, ;, }, public, void, mousePressed]
+[., modifier, ;, }, public, void, setModifier, (, int, modifier, ), {, this, ., modifier, =, modifier, ;, }, public]
+[=, modifier, ;, }, public, void, mousePressed, (, MouseEvent, e, ), {, }, public, void, mouseReleased, (, MouseEvent, e, )]
+[., modifier, =, modifier, ;, }, public, void, mousePressed, (, MouseEvent, e, ), {, }, public, void, mouseReleased, (, MouseEvent]
+[;, }, public, void, mousePressed, (, MouseEvent, e, ), {, }, public, void, mouseReleased, (, MouseEvent, e, ), {, }]

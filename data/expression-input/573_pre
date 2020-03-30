@@ -1,0 +1,5 @@
+[import, java, ., util, ., Map, ;, public, class, PlotState, {, private, Map, sharedAxisStates, ;, public, PlotState, (, ), {]
+[import, java, ., util, ., Map, ;, public, class, PlotState, {, private, Map, sharedAxisStates, ;, public, PlotState, (, ), {]
+[., Map, ;, public, class, PlotState, {, private, Map, sharedAxisStates, ;, public, PlotState, (, ), {, this, ., sharedAxisStates, =]
+[(, ), {, this, ., sharedAxisStates, =, new, HashMap, (, ), ;, }, public, Map, getSharedAxisStates, (, ), {, return]
+[(, ), {, this, ., sharedAxisStates, =, new, HashMap, (, ), ;, }, public, Map, getSharedAxisStates, (, ), {, return]

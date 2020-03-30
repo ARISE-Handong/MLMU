@@ -1,0 +1,6 @@
+[., time, ., Chronology, ;, final, class, DateConverter, extends, AbstractConverter, implements, InstantConverter, ,, PartialConverter, {, static, final, DateConverter, INSTANCE, =]
+[{, super, (, ), ;, }, public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ), {, Date, date, =]
+[), ;, }, public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ), {, Date, date, =, (, Date, )]
+[public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ), {, Date, date, =, (, Date, ), object, ;, return]
+[public, long, getInstantMillis, (, Object, object, ,, Chronology, chrono, ), {, Date, date, =, (, Date, ), object, ;, return]
+[object, ;, return, date, ., getTime, (, ), ;, }, public, Class, <, ?, >, getSupportedType, (, ), {, return]

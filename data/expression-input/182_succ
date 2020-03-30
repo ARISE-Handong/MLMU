@@ -1,0 +1,6 @@
+[;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return, new, Sinh, (, ), ;, }, public, DerivativeStructure, value]
+[., cosh, (, x, ), ;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return, new, Sinh, (, )]
+[), ;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return, new, Sinh, (, ), ;, }, public, DerivativeStructure]
+[;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return, t, ., cosh, (, ), ;, }, }]
+[;, }, }]
+[., cosh, (, ), ;, }, }]

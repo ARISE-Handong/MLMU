@@ -1,0 +1,7 @@
+[new, IdentitySet, (, )]
+[verified, ., contains, (, invocation, )]
+[verified]
+[invocation]
+[verified, ., add, (, i, )]
+[verified]
+[i]

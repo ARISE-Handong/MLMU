@@ -1,0 +1,7 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, UnknownParameterException, extends, MathIllegalArgumentException, {, private, static, final, long, serialVersionUID, =]
+[long, serialVersionUID, =, 20120902L, ;, private, final, String, name, ;, public, UnknownParameterException, (, final, String, name, ), {, super, (]
+[long, serialVersionUID, =, 20120902L, ;, private, final, String, name, ;, public, UnknownParameterException, (, final, String, name, ), {, super, (]
+[private, final, String, name, ;, public, UnknownParameterException, (, final, String, name, ), {, super, (, LocalizedFormats, ., UNKNOWN_PARAMETER, ), ;]
+[private, final, String, name, ;, public, UnknownParameterException, (, final, String, name, ), {, super, (, LocalizedFormats, ., UNKNOWN_PARAMETER, ), ;]
+[;, public, UnknownParameterException, (, final, String, name, ), {, super, (, LocalizedFormats, ., UNKNOWN_PARAMETER, ), ;, this, ., name, =]
+[(, LocalizedFormats, ., UNKNOWN_PARAMETER, ), ;, this, ., name, =, name, ;, }, public, String, getName, (, ), {, return]

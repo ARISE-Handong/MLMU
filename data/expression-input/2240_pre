@@ -1,0 +1,6 @@
+[., FastMath, ;, public, class, Sin, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[., FastMath, ;, public, class, Sin, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return]
+[class, Sin, implements, UnivariateDifferentiableFunction, ,, DifferentiableUnivariateFunction, {, public, double, value, (, double, x, ), {, return, FastMath, ., sin, (]
+[), {, return, FastMath, ., sin, (, x, ), ;, }, @, Deprecated, public, DifferentiableUnivariateFunction, derivative, (, ), {, return]
+[(, ), {, return, new, Cos, (, ), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return]
+[(, ), {, return, new, Cos, (, ), ;, }, public, DerivativeStructure, value, (, final, DerivativeStructure, t, ), {, return]

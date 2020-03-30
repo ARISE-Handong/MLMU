@@ -1,0 +1,6 @@
+[;, private, final, int, iterations, ;, public, IterationEvent, (, final, Object, source, ,, final, int, iterations, ), {, super, (]
+[), ;, this, ., iterations, =, iterations, ;, }, public, int, getIterations, (, ), {, return, iterations, ;, }, }]
+[=, iterations, ;, }, public, int, getIterations, (, ), {, return, iterations, ;, }, }]
+[., iterations, =, iterations, ;, }, public, int, getIterations, (, ), {, return, iterations, ;, }, }]
+[;, }, public, int, getIterations, (, ), {, return, iterations, ;, }, }]
+[;, }, }]

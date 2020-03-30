@@ -1,0 +1,8 @@
+[;, while, (, in, ., hasMoreElements, (, ), ), {, out, ., add, (, in, ., nextElement, (, ), )]
+[), {, out, ., add, (, in, ., nextElement, (, ), ), ;, }, return, out, ;, }, }]
+[., hasMoreElements, (, ), ), {, out, ., add, (, in, ., nextElement, (, ), ), ;, }, return, out]
+[;, }, return, out, ;, }, }]
+[., add, (, in, ., nextElement, (, ), ), ;, }, return, out, ;, }, }]
+[), ;, }, return, out, ;, }, }]
+[., nextElement, (, ), ), ;, }, return, out, ;, }, }]
+[;, }, }]

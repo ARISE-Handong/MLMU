@@ -1,0 +1,6 @@
+[class, AbstractUnivariateSolver, extends, BaseAbstractUnivariateSolver, <, UnivariateFunction, >, implements, UnivariateSolver, {, protected, AbstractUnivariateSolver, (, final, double, absoluteAccuracy, ), {, super, (]
+[super, (, absoluteAccuracy, ), ;, }, protected, AbstractUnivariateSolver, (, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ), {, super, (]
+[absoluteAccuracy, ), ;, }, protected, AbstractUnivariateSolver, (, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ), {, super, (, relativeAccuracy, ,]
+[;, }, protected, AbstractUnivariateSolver, (, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ,, final, double, functionValueAccuracy, ), {, super, (]
+[protected, AbstractUnivariateSolver, (, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ,, final, double, functionValueAccuracy, ), {, super, (, relativeAccuracy, ,]
+[(, final, double, relativeAccuracy, ,, final, double, absoluteAccuracy, ,, final, double, functionValueAccuracy, ), {, super, (, relativeAccuracy, ,, absoluteAccuracy, ,]

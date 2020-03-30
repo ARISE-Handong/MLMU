@@ -1,0 +1,7 @@
+[;, public, boolean, isVerified, (, Invocation, invocation, ), {, return, verified, ., contains, (, invocation, ), ;, }, public, void]
+[;, }, public, void, markVerified, (, Invocation, i, ), {, verified, ., add, (, i, ), ;, }, }]
+[., contains, (, invocation, ), ;, }, public, void, markVerified, (, Invocation, i, ), {, verified, ., add, (, i]
+[), ;, }, public, void, markVerified, (, Invocation, i, ), {, verified, ., add, (, i, ), ;, }, }]
+[;, }, }]
+[., add, (, i, ), ;, }, }]
+[), ;, }, }]

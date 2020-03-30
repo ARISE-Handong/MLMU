@@ -1,0 +1,8 @@
+[., MouseMotionListener, ;, public, class, AbstractMouseHandler, implements, MouseListener, ,, MouseMotionListener, {, private, int, modifier, ;, public, AbstractMouseHandler, (, ), {]
+[., MouseMotionListener, ;, public, class, AbstractMouseHandler, implements, MouseListener, ,, MouseMotionListener, {, private, int, modifier, ;, public, AbstractMouseHandler, (, ), {]
+[class, AbstractMouseHandler, implements, MouseListener, ,, MouseMotionListener, {, private, int, modifier, ;, public, AbstractMouseHandler, (, ), {, this, ., modifier, =]
+[;, public, AbstractMouseHandler, (, ), {, this, ., modifier, =, 0, ;, }, public, int, getModifier, (, ), {, return]
+[;, public, AbstractMouseHandler, (, ), {, this, ., modifier, =, 0, ;, }, public, int, getModifier, (, ), {, return]
+[public, int, getModifier, (, ), {, return, this, ., modifier, ;, }, public, void, setModifier, (, int, modifier, ), {]
+[public, int, getModifier, (, ), {, return, this, ., modifier, ;, }, public, void, setModifier, (, int, modifier, ), {]
+[), {, return, this, ., modifier, ;, }, public, void, setModifier, (, int, modifier, ), {, this, ., modifier, =]

@@ -1,0 +1,4 @@
+[Documented, ;, import, java, ., lang, ., annotation, ., Retention, ;, import, java, ., lang, ., annotation, ., Target, ;]
+[java, ., lang, ., annotation, ., Retention, ;, import, java, ., lang, ., annotation, ., Target, ;, @, Retention, (]
+[lang, ., annotation, ., Retention, ;, import, java, ., lang, ., annotation, ., Target, ;, @, Retention, (, RUNTIME, )]
+[., Retention, ;, import, java, ., lang, ., annotation, ., Target, ;, @, Retention, (, RUNTIME, ), @, Target, (]

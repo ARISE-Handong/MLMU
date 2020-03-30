@@ -1,0 +1,7 @@
+[this, ., jUnitRule]
+[this]
+[new, JUnitRule, (, )]
+[jUnitRule, ., apply, (, base, ,, target, )]
+[jUnitRule]
+[base]
+[target]

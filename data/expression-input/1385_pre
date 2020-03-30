@@ -1,0 +1,6 @@
+[math3, ., exception, ., util, ., LocalizedFormats, ;, public, class, NonSquareMatrixException, extends, DimensionMismatchException, {, private, static, final, long, serialVersionUID, =]
+[., exception, ., util, ., LocalizedFormats, ;, public, class, NonSquareMatrixException, extends, DimensionMismatchException, {, private, static, final, long, serialVersionUID, =, -]
+[static, final, long, serialVersionUID, =, -, 660069396594485772L, ;, public, NonSquareMatrixException, (, int, wrong, ,, int, expected, ), {, super, (]
+[static, final, long, serialVersionUID, =, -, 660069396594485772L, ;, public, NonSquareMatrixException, (, int, wrong, ,, int, expected, ), {, super, (]
+[=, -, 660069396594485772L, ;, public, NonSquareMatrixException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_MATRIX, ,]
+[660069396594485772L, ;, public, NonSquareMatrixException, (, int, wrong, ,, int, expected, ), {, super, (, LocalizedFormats, ., NON_SQUARE_MATRIX, ,, wrong, ,]

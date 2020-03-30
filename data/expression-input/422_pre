@@ -1,0 +1,5 @@
+[class, AbstractStaticScope, <, T, >, implements, StaticScope, <, T, >, {, @, Override, public, Node, getRootNode, (, ), {, return]
+[getRootNode, (, ), {, return, null, ;, }, @, Override, public, StaticScope, <, T, >, getParentScope, (, ), {, return]
+[getSlot, (, String, name, ), ;, @, Override, public, StaticSlot, <, T, >, getOwnSlot, (, String, name, ), {, return]
+[String, name, ), ;, @, Override, public, StaticSlot, <, T, >, getOwnSlot, (, String, name, ), {, return, getSlot, (]
+[String, name, ), {, return, getSlot, (, name, ), ;, }, @, Override, public, T, getTypeOfThis, (, ), {, return]

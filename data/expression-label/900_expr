@@ -1,0 +1,8 @@
+[@, SuppressWarnings, (, "deprecation", )]
+["deprecation"]
+[Mockito, ., mock, (, field, ., getType, (, ), ,, field, ., getName, (, ), )]
+[Mockito]
+[field, ., getType, (, )]
+[field]
+[field, ., getName, (, )]
+[field]

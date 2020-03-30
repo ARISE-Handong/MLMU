@@ -1,0 +1,8 @@
+[., entity, ., EntityCollection, ;, public, class, BlockResult, implements, EntityBlockResult, {, private, EntityCollection, entities, ;, public, BlockResult, (, ), {]
+[., entity, ., EntityCollection, ;, public, class, BlockResult, implements, EntityBlockResult, {, private, EntityCollection, entities, ;, public, BlockResult, (, ), {]
+[;, public, class, BlockResult, implements, EntityBlockResult, {, private, EntityCollection, entities, ;, public, BlockResult, (, ), {, this, ., entities, =]
+[;, public, BlockResult, (, ), {, this, ., entities, =, null, ;, }, public, EntityCollection, getEntityCollection, (, ), {, return]
+[;, public, BlockResult, (, ), {, this, ., entities, =, null, ;, }, public, EntityCollection, getEntityCollection, (, ), {, return]
+[public, EntityCollection, getEntityCollection, (, ), {, return, this, ., entities, ;, }, public, void, setEntityCollection, (, EntityCollection, entities, ), {]
+[public, EntityCollection, getEntityCollection, (, ), {, return, this, ., entities, ;, }, public, void, setEntityCollection, (, EntityCollection, entities, ), {]
+[), {, return, this, ., entities, ;, }, public, void, setEntityCollection, (, EntityCollection, entities, ), {, this, ., entities, =]

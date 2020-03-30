@@ -1,0 +1,3 @@
+[@, Deprecated, public, class, ModelFunction, implements, OptimizationData, {, private, final, MultivariateVectorFunction, model, ;, public, ModelFunction, (, MultivariateVectorFunction, m, ), {]
+[public, class, ModelFunction, implements, OptimizationData, {, private, final, MultivariateVectorFunction, model, ;, public, ModelFunction, (, MultivariateVectorFunction, m, ), {, model, =]
+[;, public, ModelFunction, (, MultivariateVectorFunction, m, ), {, model, =, m, ;, }, public, MultivariateVectorFunction, getModelFunction, (, ), {, return]

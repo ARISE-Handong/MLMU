@@ -1,0 +1,2 @@
+[public, interface, InternalMockHandler, <, T, >, extends, MockHandler, {, MockCreationSettings, getMockSettings, (, ), ;, VoidMethodStubbable, <, T, >, voidMethodStubbable, (]
+[), public, interface, InternalMockHandler, <, T, >, extends, MockHandler, {, MockCreationSettings, getMockSettings, (, ), ;, VoidMethodStubbable, <, T, >, voidMethodStubbable]
